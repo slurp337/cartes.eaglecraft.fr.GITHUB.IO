@@ -1,0 +1,7 @@
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1474189777,"servertime": 532,"updates": [{"msg": "markerupdated","x": 0.00,"y": 101.00,"z": 0.00,"id": "_spawn_archives","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697986270295}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-3000.00,3000.00,3000.00,-3000.00]
+,"z": [-3000.00,-3000.00,3000.00,3000.00]
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_archives","label": "Bordure du monde","set": "markers","desc": null,"minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1697986270295}
+]
+,"timestamp": 0}

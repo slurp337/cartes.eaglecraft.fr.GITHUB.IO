@@ -1,0 +1,92 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"archives_wod_2012_06_10": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2880.00,-2880.00,-1680.00,-1680.00]
+,"weight": 2,"z": [160.00,1456.00,1456.00,160.00]
+,"ybottom": 64.00,"label": "Wod_2012_06_10","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wod_2012_06_10<\/div><\/div>"}
+,"archives_wow_2015_02_22_joueurs": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [160.00,160.00,464.00,464.00]
+,"weight": 2,"z": [-2048.00,-1712.00,-1712.00,-2048.00]
+,"ybottom": 64.00,"label": "Wow_2015_02_22_joueurs","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wow_2015_02_22_joueurs<\/div><\/div>"}
+,"archives_message_git": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [0.00,0.00,1.00,1.00]
+,"weight": 2,"z": [0.00,1.00,1.00,0.00]
+,"ybottom": 64.00,"label": "Message_git","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Message_git<\/div><\/div>"}
+,"archives_wod_2013_05_19": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1360.00,-1360.00,-160.00,-160.00]
+,"weight": 2,"z": [160.00,1456.00,1456.00,160.00]
+,"ybottom": 64.00,"label": "Wod_2013_05_19","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wod_2013_05_19<\/div><\/div>"}
+,"archives_wow_2015_02_22": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [624.00,624.00,1264.00,1264.00]
+,"weight": 2,"z": [-2192.00,-1712.00,-1712.00,-2192.00]
+,"ybottom": 64.00,"label": "Wow_2015_02_22","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wow_2015_02_22<\/div><\/div>"}
+,"archives_woe_2015_01_04": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [160.00,160.00,1520.00,1520.00]
+,"weight": 2,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"ybottom": 64.00,"label": "Woe_2015_01_04","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Woe_2015_01_04<\/div><\/div>"}
+,"archives_woe_2012_03_04": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3008.00,-3008.00,-1840.00,-1840.00]
+,"weight": 2,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"ybottom": 64.00,"label": "Woe_2012_03_04","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Woe_2012_03_04<\/div><\/div>"}
+,"archives_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"weight": 2,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+,"archives_wod_2015_01_04": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [160.00,160.00,1360.00,1360.00]
+,"weight": 2,"z": [160.00,1456.00,1456.00,160.00]
+,"ybottom": 64.00,"label": "Wod_2015_01_04","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wod_2015_01_04<\/div><\/div>"}
+,"archives_won_2020_07_22": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1104.00,-1104.00,-160.00,-160.00]
+,"weight": 2,"z": [-2304.00,-1712.00,-1712.00,-2304.00]
+,"ybottom": 64.00,"label": "Won_2020_07_22","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Won_2020_07_22<\/div><\/div>"}
+,"archives_woe_2012_12_18": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1520.00,-1520.00,-160.00,-160.00]
+,"weight": 2,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"ybottom": 64.00,"label": "Woe_2012_12_18","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Woe_2012_12_18<\/div><\/div>"}
+,"archives_wod_2018_09_01": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1680.00,1680.00,2880.00,2880.00]
+,"weight": 2,"z": [160.00,1456.00,1456.00,160.00]
+,"ybottom": 64.00,"label": "Wod_2018_09_01","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Wod_2018_09_01<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_archives": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3000.00,3000.00,3000.00,-3000.00]
+,"weight": 3,"z": [-3000.00,-3000.00,3000.00,3000.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_archives": {"markup": false,"x": 0.00,"icon": "world","y": 101.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"wow_2015_02_22": {"markup": false,"x": 1083.00,"icon": "sign","y": 81.00,"dim": "16x16","z": -1893.00,"label": "Premier World of War (Mars 2013 \u00E0 f\u00E9vrier 2015)"}
+,"woe_2012_03_04": {"markup": false,"x": -2349.00,"icon": "sign","y": 66.00,"dim": "16x16","z": -704.00,"label": "World of Eagle au 04 mars 2012"}
+,"3_uss_brave_diary": {"markup": false,"x": -1826.00,"icon": "sign","y": 82.00,"dim": "16x16","z": -1782.00,"label": "USS Brave Diary (D\u00E9cembre 2016)"}
+,"5_uss_ruban_diary_v2": {"markup": false,"x": -1511.00,"icon": "sign","y": 100.00,"dim": "16x16","z": -1857.00,"label": "USS Ruban Diary v2 (Aout 2017)"}
+,"wod_2015_01_04": {"markup": false,"x": 543.00,"icon": "sign","y": 65.00,"dim": "16x16","z": 827.00,"label": "World of Design au 04 janvier 2015"}
+,"4_uss_ruban_diary_v1": {"markup": false,"x": -1684.00,"icon": "sign","y": 90.00,"dim": "16x16","z": -1815.00,"label": "USS Ruban Diary v1 (Juillet 2017)"}
+,"wod_2012_06_10": {"markup": false,"x": -2492.00,"icon": "sign","y": 64.00,"dim": "16x16","z": 827.00,"label": "World of Design au 10 juin 2012"}
+,"woe_2015_01_04": {"markup": false,"x": 1059.00,"icon": "sign","y": 64.00,"dim": "16x16","z": -632.00,"label": "World of Eagle au 04 janvier 2015"}
+,"2_bss_enterprise": {"markup": false,"x": -1956.00,"icon": "sign","y": 82.00,"dim": "16x16","z": -1762.00,"label": "BSS Enterprise (Juillet 2016)"}
+,"woe_2012_12_18": {"markup": false,"x": -621.00,"icon": "sign","y": 64.00,"dim": "16x16","z": -632.00,"label": "World of Eagle au 18 d\u00E9cembre 2012"}
+,"won_2020_06_22": {"markup": false,"x": -706.00,"icon": "sign","y": 67.00,"dim": "16x16","z": -2090.00,"label": "Premier World of Nether (Octobre 2012 \u00E0 juillet 2020)"}
+,"wow_2015_02_22_joueurs": {"markup": false,"x": 261.00,"icon": "sign","y": 76.00,"dim": "16x16","z": -1894.00,"label": "Premier World of War (Mars 2013 \u00E0 f\u00E9vrier 2015)"}
+,"1_eac_goldenprise": {"markup": false,"x": -2064.00,"icon": "sign","y": 80.00,"dim": "16x16","z": -1743.00,"label": "EAC Goldenprise (Mars 2016)"}
+,"wod_2018_09_01": {"markup": false,"x": 2063.00,"icon": "sign","y": 66.00,"dim": "16x16","z": 827.00,"label": "World of Design au 01 septembre 2018"}
+,"wod_2013_05_19": {"markup": false,"x": -977.00,"icon": "sign","y": 65.00,"dim": "16x16","z": 827.00,"label": "World of Design au 19 mai 2013"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302280}

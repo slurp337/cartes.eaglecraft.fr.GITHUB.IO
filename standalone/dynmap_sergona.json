@@ -1,0 +1,7 @@
+{"currentcount": 0,"hasStorm": true,"players": []
+,"isThundering": false,"confighash": 1474189777,"servertime": 532,"updates": [{"msg": "markerupdated","x": 338.00,"y": 98.00,"z": 212.00,"id": "_spawn_sergona","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697986270490}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2700.00,2700.00,2700.00,-2700.00]
+,"z": [-2700.00,-2700.00,2700.00,2700.00]
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_sergona","label": "Bordure du monde","set": "markers","desc": null,"minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1697986270490}
+]
+,"timestamp": 0}

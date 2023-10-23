@@ -1,0 +1,47 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"plaines_fort_boyard": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [157.00,157.00,228.00,228.00]
+,"weight": 2,"z": [119.00,262.00,262.00,119.00]
+,"ybottom": 64.00,"label": "Fort_boyard","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Fort_boyard<\/div><\/div>"}
+,"plaines_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"weight": 2,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_plaines": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2500.00,2500.00,2500.00,-2500.00]
+,"weight": 3,"z": [-2500.00,-2500.00,2500.00,2500.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_plaines": {"markup": false,"x": 0.00,"icon": "world","y": 4.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302296}

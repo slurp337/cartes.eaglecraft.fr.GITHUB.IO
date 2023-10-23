@@ -1,0 +1,66 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_equ_woe": {"markup": false,"x": -199.00,"icon": "portal","y": 149.00,"dim": "16x16","z": -467.00,"label": "Portail vers WOE"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"equestria_zone_joueurs": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1736.00,-1736.00,1475.00,1475.00]
+,"weight": 2,"z": [-4940.00,1052.00,1052.00,-4940.00]
+,"ybottom": 64.00,"label": "Zone_joueurs","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zone_joueurs<\/div><\/div>"}
+,"equestria_message_git": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [423.00,423.00,424.00,424.00]
+,"weight": 2,"z": [-1026.00,-1025.00,-1025.00,-1026.00]
+,"ybottom": 64.00,"label": "Message_git","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Message_git<\/div><\/div>"}
+,"equestria_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"weight": 2,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Marqueurs","markers": {"_spawn_equestria": {"markup": false,"x": 0.00,"icon": "world","y": 72.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"manehatten": {"markup": false,"x": 5438.00,"icon": "sign","y": 67.00,"dim": "16x16","z": -1244.00,"label": "Manehatten"}
+,"base_des_wonderbolts": {"markup": false,"x": -683.00,"icon": "sign","y": 138.00,"dim": "16x16","z": -2515.00,"label": "Base des Wonderbolts"}
+,"diamond_dogs": {"markup": false,"x": 1251.00,"icon": "sign","y": 68.00,"dim": "16x16","z": 80.00,"label": "Diamond Dogs"}
+,"chateau_de_canterlot": {"markup": false,"x": 502.00,"icon": "sign","y": 124.00,"dim": "16x16","z": -660.00,"label": "Chateau de Canterlot"}
+,"rockfarm": {"markup": false,"x": -1262.00,"icon": "sign","y": 96.00,"dim": "16x16","z": 1956.00,"label": "Rockfarm"}
+,"appleloosa": {"markup": false,"x": 800.00,"icon": "sign","y": 76.00,"dim": "16x16","z": 1665.00,"label": "Appleloosa"}
+,"mairie_de_ponyville": {"markup": false,"x": 0.00,"icon": "sign","y": 73.00,"dim": "16x16","z": 0.00,"label": "Mairie de Ponyville"}
+,"grand_galloping_gala": {"markup": false,"x": 818.00,"icon": "sign","y": 81.00,"dim": "16x16","z": -813.00,"label": "Grand Galloping Gala"}
+,"running_of_the_leaves": {"markup": false,"x": -1491.00,"icon": "sign","y": 75.00,"dim": "16x16","z": 419.00,"label": "Running of the Leaves"}
+,"yakyakistan": {"markup": false,"x": -3707.00,"icon": "sign","y": 203.00,"dim": "16x16","z": -4587.00,"label": "Yakyakistan"}
+,"dodge_junction": {"markup": false,"x": 1868.00,"icon": "sign","y": 59.00,"dim": "16x16","z": 1117.00,"label": "Dodge Junction"}
+,"chateau_de_twilight_sparkle": {"markup": false,"x": -232.00,"icon": "sign","y": 91.00,"dim": "16x16","z": -463.00,"label": "Chateau de Twilight Sparkle"}
+,"sweet_apple_acre": {"markup": false,"x": -435.00,"icon": "sign","y": 125.00,"dim": "16x16","z": 165.00,"label": "Sweet Apple Acre"}
+,"chateau_des_deux_soeurs": {"markup": false,"x": 919.00,"icon": "sign","y": 78.00,"dim": "16x16","z": 643.00,"label": "Chateau des Deux Soeurs"}
+,"chateau_du_crystal_empire": {"markup": false,"x": -998.00,"icon": "sign","y": 8.00,"dim": "16x16","z": -4260.00,"label": "Chateau du Crystal Empire"}
+,"village_de_starlight_glimmer": {"markup": false,"x": 2758.00,"icon": "sign","y": 159.00,"dim": "16x16","z": -2052.00,"label": "Village de Starlight Glimmer"}
+,"arbre_de_zecora": {"markup": false,"x": 10.00,"icon": "sign","y": 68.00,"dim": "16x16","z": 573.00,"label": "Arbre de Zecora"}
+,"cloudsdale": {"markup": false,"x": -348.00,"icon": "sign","y": 160.00,"dim": "16x16","z": -1594.00,"label": "Cloudsdale"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986279295}

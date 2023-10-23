@@ -1,0 +1,919 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_woe_equ": {"markup": false,"x": -394.00,"icon": "portal","y": 76.00,"dim": "16x16","z": 262.00,"label": "Portail vers Equestria"}
+,"portail_woe_spawn": {"markup": false,"x": -254.00,"icon": "portal","y": 69.00,"dim": "16x16","z": 376.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {"57f92a5b-e0a7-4707-a92e-bdd252337291": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 395.00,"label": "Baroriam vend des Yellow Dye pour 2,00 Egl"}
+,"63c9abc3-bfe3-4daa-9784-3b147ce9f8da": {"markup": false,"x": -283.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Dirt pour 0,01 Egl"}
+,"bdf534f9-26c5-4483-8b04-a93754a76fd0": {"markup": false,"x": -293.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Cyan Dye pour 2,00 Egl"}
+,"52dc823f-eccf-450d-9b61-7d95c268b27e": {"markup": false,"x": -1052.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 466.00,"label": "thewomencraft vend des Soul Sand pour 1,00 Egl"}
+,"8bf08789-6607-4b4b-bf96-d7413b831e79": {"markup": false,"x": -1280.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1126.00,"label": "MrBlaZerYt vend des Stick pour 1,00 Egl"}
+,"a164ae6d-be77-4eff-b898-48b2c6f49ea3": {"markup": false,"x": -646.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Iron Horse Armor pour 4,00 Egl"}
+,"846b7815-be77-4b13-89fd-849a35b80388": {"markup": false,"x": -855.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2601.00,"label": "Neptune_7 vend des Slime Ball pour 0,50 Egl"}
+,"17140280-b475-452c-9271-9e58350b8796": {"markup": false,"x": -1263.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1163.00,"label": "tutu2222 vend des Cobblestone pour 0,50 Egl"}
+,"529449e5-acb1-4294-a734-e02e2e30a02e": {"markup": false,"x": -609.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Blaze Rod pour 4,00 Egl"}
+,"2056f4b8-a0f9-4b9a-9111-19a61d973d20": {"markup": false,"x": -645.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Leggings pour 2,00 Egl"}
+,"0a8e766f-329c-4066-b3b1-bee1547ff8d7": {"markup": false,"x": -796.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 491.00,"label": "Baroriam vend des Iron Helmet pour 7,00 Egl"}
+,"fbe12555-fb64-4e38-a5e6-3f6735f2833d": {"markup": false,"x": -1265.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1090.00,"label": "Mirava vend des Music Disc 13 pour 5,00 Egl"}
+,"585471a9-c735-43b4-adf4-16ec583275e9": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Nether Bricks pour 5,00 Egl"}
+,"dd2d5cdc-1065-474f-8710-b7b02b170016": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Jukebox pour 20,00 Egl"}
+,"c79723b3-adbc-4117-9293-269d52946812": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Andesite pour 0,50 Egl"}
+,"4800cc76-a258-4c3f-a262-cc594eb1fcfd": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3040.00,"label": "eternalfate89 vend des Spruce Log pour 0,10 Egl"}
+,"77c02573-fc60-4a0b-acf9-93e9caec035e": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3083.00,"label": "killer_du_115 vend des Black Wool pour 0,20 Egl"}
+,"c546226b-ca95-4327-b615-eb7f98f42be7": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Dried Kelp Block pour 2,00 Egl"}
+,"9a7cfad9-bb1e-498f-99f8-cee32c64286c": {"markup": false,"x": -759.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 439.00,"label": "Auldeor vend des Cooked Rabbit pour 1,00 Egl"}
+,"c6785cc3-377d-4c11-a244-535d09d97086": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 491.00,"label": "Baroriam vend des Leather Chestplate pour 9,00 Egl"}
+,"f970d487-63b6-4cfa-a95b-32f04c8b0dcd": {"markup": false,"x": -1265.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1161.00,"label": "tutu2222 vend des Golden Horse Armor pour 10,00 Egl"}
+,"603b687a-81ee-4ea9-9a6f-5c54cec26624": {"markup": false,"x": -2558.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 367.00,"label": "lyly33bis vend des Cooked Salmon pour 2,00 Egl"}
+,"92b6491c-4cff-4611-a45f-b58abe0e87cb": {"markup": false,"x": -760.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Gold Ingot pour 1,50 Egl"}
+,"6150b181-d436-4d65-84e4-9c953f733069": {"markup": false,"x": -610.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Bookshelf pour 1,50 Egl"}
+,"b2574afb-bb3e-41ed-b232-22d97dbd3ffd": {"markup": false,"x": -302.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Torch pour 4,00 Egl"}
+,"6d2d5505-9706-468b-9088-3d76e378c0bd": {"markup": false,"x": -1053.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 465.00,"label": "thewomencraft vend des Cookie pour 1,00 Egl"}
+,"f881acc0-0f8b-489a-8731-210a62f45b29": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Chainmail Leggings pour 250,00 Egl"}
+,"db3a27a6-1d61-47c3-9ea9-49069d2441c1": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3047.00,"label": "eternalfate89 vend des Saddle pour 2,00 Egl"}
+,"079b7221-09f7-471b-88ed-ed794b3ada4b": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3043.00,"label": "eternalfate89 vend des Red Wool pour 0,10 Egl"}
+,"79adacd6-718d-401d-9962-d5279356cc9b": {"markup": false,"x": -291.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Lapis Lazuli pour 2,00 Egl"}
+,"3bae76f6-123e-4ef2-a7b0-c424cecf338c": {"markup": false,"x": -1338.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1057.00,"label": "lyly33bis vend des Cobblestone pour 1,00 Egl"}
+,"16b866f7-1e3d-43f0-9d5d-674281eff41f": {"markup": false,"x": -640.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Boots pour 2,00 Egl"}
+,"04caccd5-6248-4471-84b6-a2c45bb27511": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3038.00,"label": "eternalfate89 vend des Bone pour 0,10 Egl"}
+,"4a7645f4-3f6d-48cc-8bd8-21ab96ea3f0a": {"markup": false,"x": -647.00,"icon": "pin","y": 84.00,"dim": "16x16","z": 699.00,"label": "Baroriam vend des Minecart pour 2,00 Egl"}
+,"b54ae7a0-04cf-47db-b2b6-4652709d4418": {"markup": false,"x": -645.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Repeater pour 1,00 Egl"}
+,"053d8318-59fd-4412-914a-bb67d09388c0": {"markup": false,"x": -765.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Mutton pour 1,00 Egl"}
+,"88f02c61-32f8-430b-ab08-2cac1b7bf423": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3048.00,"label": "eternalfate89 vend des Snow pour 0,01 Egl"}
+,"1aa21ce7-d38d-472f-b2c1-184fd496ab09": {"markup": false,"x": -812.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 488.00,"label": "Baroriam vend des Ghast Tear pour 5,00 Egl"}
+,"5061cba5-70c5-48ab-a40c-583a5bd32f64": {"markup": false,"x": -638.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Gunpowder pour 10,00 Egl"}
+,"c9d4b9ed-0473-4ac0-aa55-0872f0d65894": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3039.00,"label": "eternalfate89 vend des Netherrack pour 0,10 Egl"}
+,"d80f680c-192c-4838-919f-4c0e25f4b717": {"markup": false,"x": -290.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Diamond pour 20,00 Egl"}
+,"d13a9c98-e4a7-45c1-ae76-4cdf15728d48": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3041.00,"label": "eternalfate89 vend des Oak Log pour 0,10 Egl"}
+,"d0bead26-cc33-4a96-8c40-70edc9541329": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Auldeor vend des Lava Bucket pour 10,00 Egl"}
+,"8d9b3071-416c-4b5a-84b2-a3f879011d2a": {"markup": false,"x": -759.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des White Stained Glass Pane pour 1,00 Egl"}
+,"a6cf99d6-4a2b-4cb9-8ece-816e401aec8b": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Cooked Salmon pour 7,50 Egl"}
+,"70e44891-528c-46f7-9ace-ad8eaa03a7fa": {"markup": false,"x": -302.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Sand pour 0,05 Egl"}
+,"2a1e0950-69a7-4dad-8c1d-fe2df92bfe7f": {"markup": false,"x": -277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 402.00,"label": "Baroriam vend des Stone Bricks pour 1,00 Egl"}
+,"a7cde63a-c027-4e82-86a6-a8d3bc77664a": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Nether Brick Fence pour 4,00 Egl"}
+,"1eab357c-bede-4de4-a359-790dbff34292": {"markup": false,"x": -643.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Boots pour 2,00 Egl"}
+,"e3d0a09b-67ef-4899-beb8-08d07fe94c4b": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3085.00,"label": "killer_du_115 vend des Green Wool pour 0,20 Egl"}
+,"536a02cd-a086-4131-ab5a-05565b40a177": {"markup": false,"x": -645.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Leather pour 0,50 Egl"}
+,"c0b44a18-9a2c-4f44-ad8e-0f72cdb8dccd": {"markup": false,"x": -798.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 495.00,"label": "Baroriam vend des Golden Chestplate pour 11,00 Egl"}
+,"38b140dd-2d25-46e7-a4d8-4a66ccde25a8": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Quartz Block pour 10,00 Egl"}
+,"fa8022a2-3ccf-431b-ab4c-e93e62a19299": {"markup": false,"x": -1054.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 471.00,"label": "thewomencraft vend des Carrot pour 1,00 Egl"}
+,"4aedd5af-d1aa-415c-a573-cacbfa88d429": {"markup": false,"x": -282.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Gravel pour 0,10 Egl"}
+,"893855d8-b25b-4587-a2a0-18e733e9d1f1": {"markup": false,"x": -841.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Lapis Lazuli pour 0,75 Egl"}
+,"dd6cba92-ee7b-40de-be22-c292b01beca2": {"markup": false,"x": -796.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 492.00,"label": "Baroriam vend des Iron Chestplate pour 10,00 Egl"}
+,"65073047-c63d-4478-a405-4881c9c7042a": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Gold Block pour 15,00 Egl"}
+,"24798cc1-f79b-4c63-8b27-b5cf7922ae77": {"markup": false,"x": -1333.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1058.00,"label": "lyly33bis vend des Netherrack pour 3,00 Egl"}
+,"80be19a8-a0f7-4548-a631-572c9a119fcf": {"markup": false,"x": -771.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des Oxeye Daisy pour 0,50 Egl"}
+,"ea20bba8-c428-4047-baae-6fb6a9c89862": {"markup": false,"x": -807.00,"icon": "pin","y": 80.00,"dim": "16x16","z": 425.00,"label": "Nayati vend des Cocoa Beans pour 1,00 Egl"}
+,"d5959a23-f551-4218-ad7a-42fbb0a561fc": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Diamond Block pour 15,00 Egl"}
+,"e6430631-cee1-4ddf-9a2d-9a9c3d25061d": {"markup": false,"x": -640.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Sugar Cane pour 0,02 Egl"}
+,"87de4eda-b543-41d9-af85-e596d73d1b04": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Mossy Stone Bricks pour 1,00 Egl"}
+,"0bae958f-ea79-4cbc-8d3a-b5c9e0c7aa22": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Auldeor vend des Cobweb pour 8,00 Egl"}
+,"8e68815c-38a2-40ff-b614-440162e48f7e": {"markup": false,"x": -647.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Minecart pour 0,50 Egl"}
+,"c4d0e7e8-8327-4759-b0be-27f64e9b6d69": {"markup": false,"x": -639.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Wheat pour 0,01 Egl"}
+,"152f2ba4-66e0-4052-bed1-6e79556c505d": {"markup": false,"x": -642.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Armor Stand pour 0,50 Egl"}
+,"a5accabb-ecae-4cd3-a9f0-5d3f080385ac": {"markup": false,"x": -2562.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 370.00,"label": "lyly33bis vend des Sticky Piston pour 3,00 Egl"}
+,"ca5285ab-0475-4a0c-95d6-c26b2b316fbc": {"markup": false,"x": -796.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 494.00,"label": "Baroriam vend des Iron Boots pour 5,00 Egl"}
+,"33edf37d-5978-4c1a-9589-b264ec85f098": {"markup": false,"x": -614.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Gunpowder pour 1,00 Egl"}
+,"685c9b58-3096-41f7-afc2-16b60bdcf8ce": {"markup": false,"x": -800.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 491.00,"label": "Baroriam vend des Leather Helmet pour 6,00 Egl"}
+,"3ea38f01-00f8-4311-96e5-7c7718e93916": {"markup": false,"x": -648.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Rail pour 0,10 Egl"}
+,"c58989d9-e68f-4d68-a1b7-dcc4a98060f5": {"markup": false,"x": -840.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Coal pour 0,50 Egl"}
+,"88f8b50a-a290-47b0-ac66-731828dbf0fd": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Enchanted Golden Apple pour 200,00 Egl"}
+,"db27ef19-e883-48c1-aff5-73eb5b719f66": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2588.00,"label": "Neptune_7 vend des Oak Log pour 1,00 Egl"}
+,"1695f766-bf6b-4570-9a9d-47dc0da3a50d": {"markup": false,"x": -798.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 485.00,"label": "Baroriam vend des Iron Sword pour 3,00 Egl"}
+,"75589930-9628-478f-a3ca-d72f5186c6b7": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Salmon pour 5,00 Egl"}
+,"5c8320d9-20be-44a6-b70d-62d9dcaf60b0": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Vine pour 1,00 Egl"}
+,"841cc556-6739-430e-9883-d074f02dcc5e": {"markup": false,"x": -844.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Diamond pour 8,00 Egl"}
+,"1a5a3f21-a9b0-405d-b9d2-35baed852761": {"markup": false,"x": -295.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Gray Dye pour 2,00 Egl"}
+,"b9bf2ddd-9f9a-4135-a580-43fd86094cbf": {"markup": false,"x": -608.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Nether Wart pour 0,10 Egl"}
+,"d51013ce-838c-4b74-aada-85ac866eee36": {"markup": false,"x": -277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 399.00,"label": "Baroriam vend des Bricks pour 2,00 Egl"}
+,"2be4130d-b45b-4365-a4d8-b7f3f9e61cf6": {"markup": false,"x": -601.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3065.00,"label": "eternalfate89 vend des Anvil pour 10,00 Egl"}
+,"0229ae2c-012d-46b7-83fa-0b717b05fc82": {"markup": false,"x": -766.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des Carrot pour 0,50 Egl"}
+,"70d3f5d2-1349-471d-bfd7-92d997a84ca4": {"markup": false,"x": -1254.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 989.00,"label": "docteur_louis vend des Quartz pour 1,00 Egl"}
+,"108421f7-2fce-4162-b3a7-509da9570a07": {"markup": false,"x": -304.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Chiseled Sandstone pour 10,00 Egl"}
+,"c02d3d6c-1bae-4b5c-a4ce-78364c45ec1a": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 490.00,"label": "Baroriam vend des Leather Leggings pour 5,00 Egl"}
+,"b53cb12d-9b63-4fed-bc1a-000386a4c20d": {"markup": false,"x": -290.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Cocoa Beans pour 2,00 Egl"}
+,"da590967-b048-4e06-bd37-4b40f72c760a": {"markup": false,"x": -1057.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 471.00,"label": "thewomencraft vend des Iron Ingot pour 10,00 Egl"}
+,"aaae6004-c8be-4589-9981-522446c490a1": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Netherrack pour 3,00 Egl"}
+,"40734b65-f1d0-4d1e-8bcb-03302eeea4c9": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Pink Wool pour 0,20 Egl"}
+,"321a1b94-ffac-417c-9917-374db2efa15d": {"markup": false,"x": -273.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 400.00,"label": "Baroriam vend des Ender Pearl pour 15,00 Egl"}
+,"49db8e2a-d3cf-41cc-b25b-126d7e293c0a": {"markup": false,"x": -306.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Wheat Seeds pour 0,50 Egl"}
+,"0624d9f0-fc84-4ac3-bf3b-5d019c8ae638": {"markup": false,"x": -604.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Sugar Cane pour 0,10 Egl"}
+,"399b60b5-3847-4300-a72b-72bd01121e66": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cooked Rabbit pour 4,00 Egl"}
+,"0515415d-c892-4c49-90d5-69612d9935d8": {"markup": false,"x": -641.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Emerald pour 2,00 Egl"}
+,"71528549-22bd-464d-bcdb-548b30cce26e": {"markup": false,"x": -1081.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 590.00,"label": "lyly33bis vend des Redstone pour 2,00 Egl"}
+,"a86a8aad-c6ef-4c34-a694-c2779b81d241": {"markup": false,"x": -840.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2590.00,"label": "Neptune_7 vend des Music Disc Cat pour 7,50 Egl"}
+,"7ac4cf97-41cc-483e-a166-b2641236660d": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2586.00,"label": "Neptune_7 vend des Spruce Log pour 1,00 Egl"}
+,"08e17c33-c6da-4f25-98a2-abdfce2998ed": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3039.00,"label": "eternalfate89 vend des Bread pour 0,02 Egl"}
+,"37fc2f9a-352b-4ce7-87b1-49c41757b49d": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3081.00,"label": "killer_du_115 vend des Light Gray Wool pour 0,20 Egl"}
+,"67c600cf-408c-4506-ae73-0efb06900e91": {"markup": false,"x": -842.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Iron Ingot pour 0,99 Egl"}
+,"78b16a3d-97d7-4c61-9891-4080da9ad50e": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3045.00,"label": "eternalfate89 vend des Lead pour 3,00 Egl"}
+,"fa8718cd-f23c-4ff6-94e7-35d0e87c00cd": {"markup": false,"x": -1052.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 469.00,"label": "thewomencraft vend des Nether Wart pour 1,00 Egl"}
+,"e5ac8f3e-7ef0-404f-8d95-420e6c49b044": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3047.00,"label": "eternalfate89 vend des Bricks pour 0,30 Egl"}
+,"79a3572a-5abc-4ed9-9ef3-27da74547453": {"markup": false,"x": -306.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Sticky Piston pour 10,00 Egl"}
+,"d5cd8599-2fba-49e4-9cd8-bb9bfb63cbe0": {"markup": false,"x": -840.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2587.00,"label": "Neptune_7 vend des Diamond Horse Armor pour 17,50 Egl"}
+,"16b55a4c-d6b4-433b-97c9-8cc186dfe436": {"markup": false,"x": -278.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Sandstone pour 1,00 Egl"}
+,"8691a14c-8d69-4e63-9020-282f2689cc98": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3044.00,"label": "eternalfate89 vend des Arrow pour 0,05 Egl"}
+,"0b280e83-9066-47c5-b1e8-cac84a5507c3": {"markup": false,"x": -648.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Book pour 0,50 Egl"}
+,"cab5a616-abab-4e56-a1df-bb096a9730c4": {"markup": false,"x": -854.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Obsidian pour 1,00 Egl"}
+,"217d819d-1627-418f-b324-80c89e71f8b3": {"markup": false,"x": -2909.00,"icon": "pin","y": 67.00,"dim": "16x16","z": 328.00,"label": "Baroriam vend des Salmon pour 3,00 Egl"}
+,"23661540-392b-41b0-9744-e0f546471a2b": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2599.00,"label": "Neptune_7 vend des Brewing Stand pour 4,00 Egl"}
+,"7589db49-3759-4e04-8442-f8f20c041a85": {"markup": false,"x": -1053.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 471.00,"label": "thewomencraft vend des Potato pour 1,00 Egl"}
+,"150c8171-25bd-4e32-bb75-e933dde93aaa": {"markup": false,"x": -274.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 395.00,"label": "Baroriam vend des Bee Spawn Egg pour 5,00 Egl"}
+,"004bc8ce-a417-4863-b143-073d5852860f": {"markup": false,"x": -2561.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 370.00,"label": "lyly33bis vend des Hopper pour 2,00 Egl"}
+,"9eb2d094-c3e6-4def-b5b5-ebbe5f592a5c": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Prismarine pour 1,00 Egl"}
+,"daa73d6f-2f22-4a8b-827b-17d469292a3c": {"markup": false,"x": -640.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Enchanted Golden Apple pour 65,00 Egl"}
+,"30cbcb31-d820-4dd3-afcf-51e130a32d31": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3040.00,"label": "eternalfate89 vend des Red Terracotta pour 0,10 Egl"}
+,"66db5b4e-2c2e-4aa0-a7a9-cfbf7bfe884c": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 394.00,"label": "Baroriam vend des Lime Dye pour 2,00 Egl"}
+,"f413d9b6-e209-40ab-b86e-2fa0951f76b9": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3040.00,"label": "eternalfate89 vend des Cooked Beef pour 0,02 Egl"}
+,"00bd5612-d83a-49e3-885a-a51833bcb4a4": {"markup": false,"x": -2562.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 366.00,"label": "lyly33bis vend des Red Mushroom Block pour 1,00 Egl"}
+,"7d11cbe5-07d6-4f72-bc35-dbfcae3e4fd5": {"markup": false,"x": -646.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Chestplate pour 2,00 Egl"}
+,"59a08716-1d3e-4027-a4ca-0a8c75fce054": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3041.00,"label": "eternalfate89 vend des Cooked Chicken pour 0,02 Egl"}
+,"35b1c4cf-63b3-4a53-9aaa-f32c18a69aad": {"markup": false,"x": -644.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Boots pour 2,00 Egl"}
+,"a217dc14-1445-483d-805b-4979e941f019": {"markup": false,"x": -310.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Diamond pour 20,00 Egl"}
+,"d7e1618b-b3c3-48e3-95f4-bc5c211066cd": {"markup": false,"x": -644.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Daylight Detector pour 1,00 Egl"}
+,"544d4663-9b77-4a99-aea0-90b84f3541be": {"markup": false,"x": -856.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2601.00,"label": "Neptune_7 vend des Nether Wart pour 0,99 Egl"}
+,"3d3712b6-5487-4653-b8bf-8195f88fe7bf": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2587.00,"label": "Neptune_7 vend des Birch Log pour 1,00 Egl"}
+,"51302b67-6fad-4f9f-a980-701876a45add": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Ender Eye pour 20,00 Egl"}
+,"ddebb79b-8100-46e4-ac83-a68583ed6d49": {"markup": false,"x": -643.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Carved Pumpkin pour 0,01 Egl"}
+,"b078a881-1d17-49fe-a6fd-98ebcb9a2069": {"markup": false,"x": -615.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Ghast Tear pour 1,50 Egl"}
+,"852867b2-cc0c-4b20-af70-147ddde7a359": {"markup": false,"x": -2563.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 354.00,"label": "docteur_louis vend des Shield pour 4,00 Egl"}
+,"9787731c-21cb-4a00-b552-d83c5e204175": {"markup": false,"x": -647.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Leggings pour 2,00 Egl"}
+,"4a669fdc-5a02-4e9b-ab63-882cba57eab8": {"markup": false,"x": -310.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Acacia Sapling pour 3,00 Egl"}
+,"e19ace18-620d-4b94-a364-bcf36d6d37ce": {"markup": false,"x": -1268.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1164.00,"label": "tutu2222 vend des Spruce Log pour 1,00 Egl"}
+,"6f35a21f-5556-41c9-96b4-8bf2225d2292": {"markup": false,"x": -609.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Soul Sand pour 1,00 Egl"}
+,"2c5f92db-b199-4589-b8fc-6b90b79702a7": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cooked Beef pour 3,00 Egl"}
+,"c4f9e8d3-0e26-4f2b-a8ac-c10fcecfa824": {"markup": false,"x": -854.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2601.00,"label": "Neptune_7 vend des Cauldron pour 4,00 Egl"}
+,"17c33b96-f5d4-4cbd-85e4-3e0ba22a33f7": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3044.00,"label": "eternalfate89 vend des Melon pour 0,02 Egl"}
+,"e9e6efa8-6c22-494a-bd22-ecc057ef3163": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Furnace pour 1,00 Egl"}
+,"31f371d1-432e-4f50-b4a9-b525309271eb": {"markup": false,"x": -1335.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1060.00,"label": "lyly33bis vend des Hopper pour 3,00 Egl"}
+,"6ce26a7d-2d0e-426e-8112-3e8d72024e24": {"markup": false,"x": -514.00,"icon": "pin","y": 71.00,"dim": "16x16","z": 6.00,"label": "Baroriam vend des Fishing Rod pour 2,00 Egl"}
+,"f7228e59-bef4-41bf-a1fb-d3b5ad7ce931": {"markup": false,"x": -2561.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 296.00,"label": "regorf vend des Arrow pour 1,50 Egl"}
+,"5cafd1ac-1ebe-46b3-98a1-6b335aa83914": {"markup": false,"x": -2563.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 355.00,"label": "docteur_louis vend des Iron Pickaxe pour 9,00 Egl"}
+,"1953ddaf-5872-482d-811f-68a666a0e493": {"markup": false,"x": -1255.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 989.00,"label": "docteur_louis vend des Blaze Rod pour 2,00 Egl"}
+,"bc88b350-8a72-442b-9705-8d6f6df2f561": {"markup": false,"x": -765.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des Potato pour 0,50 Egl"}
+,"61d3c2f9-dd7e-4302-bd27-d131b9e28acb": {"markup": false,"x": -1336.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1060.00,"label": "lyly33bis vend des White Wool pour 1,00 Egl"}
+,"fe8b44a6-b6c2-4715-a82b-8177f11e1396": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3037.00,"label": "eternalfate89 vend des Arrow pour 0,10 Egl"}
+,"c89fe993-42f4-4ec1-bd97-2e61fa7f7279": {"markup": false,"x": -1058.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 469.00,"label": "thewomencraft vend des Cactus pour 1,00 Egl"}
+,"37dcda3f-3d55-4a45-8e96-a361830a1d14": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Bookshelf pour 7,00 Egl"}
+,"2df8b204-132f-48e8-bba2-594844a0a14e": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3046.00,"label": "eternalfate89 vend des Iron Horse Armor pour 4,00 Egl"}
+,"138cff7b-bce6-465b-ad7e-88633642c66b": {"markup": false,"x": -2558.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 368.00,"label": "lyly33bis vend des Cooked Cod pour 1,50 Egl"}
+,"2d443483-d99c-4e78-b524-b30a18e40994": {"markup": false,"x": -606.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Glass Bottle pour 0,20 Egl"}
+,"4085adb1-b099-4348-a815-53173a116beb": {"markup": false,"x": -1263.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1164.00,"label": "tutu2222 vend des Cookie pour 3,00 Egl"}
+,"742e5014-b47f-4a0d-ba16-c6503b37caf5": {"markup": false,"x": -2906.00,"icon": "pin","y": 67.00,"dim": "16x16","z": 328.00,"label": "Baroriam vend des Apple pour 7,00 Egl"}
+,"5c9c025e-ba92-48fc-80ba-b1c7fc78d4f9": {"markup": false,"x": -810.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 483.00,"label": "Baroriam vend des Golden Carrot pour 5,00 Egl"}
+,"6bb9fc8c-10ee-4525-9af0-457efb2d635b": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Granite pour 0,50 Egl"}
+,"38e05888-6927-48da-a4d9-4746feeaf083": {"markup": false,"x": -312.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Gold Ingot pour 15,00 Egl"}
+,"6409ab1f-346a-4cce-a717-84a0fa22e70a": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 397.00,"label": "Baroriam vend des Magenta Dye pour 2,00 Egl"}
+,"50cb7c2a-5a54-47c2-87b7-a7a88cf445bd": {"markup": false,"x": -1058.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 466.00,"label": "thewomencraft vend des Oak Sapling pour 1,00 Egl"}
+,"a11cd18e-25bd-4048-b241-beddace75820": {"markup": false,"x": -289.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Green Dye pour 2,00 Egl"}
+,"3d169137-7843-444d-a521-ddc0d3eb9a2f": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3084.00,"label": "killer_du_115 vend des Bone pour 0,50 Egl"}
+,"a0a5f660-13ae-4e3a-8d1c-675fab8379d0": {"markup": false,"x": -611.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Book pour 1,50 Egl"}
+,"404aa4f2-a9c6-4841-b867-e4cc46449008": {"markup": false,"x": -281.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Sand pour 0,05 Egl"}
+,"2488aaa7-3d4c-47d9-b48f-27e1fe5bdd29": {"markup": false,"x": -1275.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1127.00,"label": "MrBlaZerYt vend des Dirt pour 0,10 Egl"}
+,"6f5837bd-2f91-44f7-abca-d8332192c391": {"markup": false,"x": -770.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des White Tulip pour 0,50 Egl"}
+,"956d235a-c660-48d7-8714-2af6c8663d7d": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Pink Dye pour 2,00 Egl"}
+,"22c31997-add9-409f-a2d4-f6a12a703a52": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cooked Porkchop pour 3,00 Egl"}
+,"44c1286a-5b24-446e-8c48-ff70119611c2": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3042.00,"label": "eternalfate89 vend des Cooked Mutton pour 0,02 Egl"}
+,"d402ccbb-b6b6-4542-957e-f2c119b36e6b": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3046.00,"label": "eternalfate89 vend des Ice pour 0,30 Egl"}
+,"f67581c4-7b6a-40c3-a50f-d6baab2303f8": {"markup": false,"x": -806.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 488.00,"label": "Baroriam vend des Fermented Spider Eye pour 5,00 Egl"}
+,"b30f3b9a-8ce1-4f7f-882d-74a1ace42797": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Oak Log pour 0,05 Egl"}
+,"fdb60941-146c-4df3-9d58-c59462110171": {"markup": false,"x": -288.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Iron Ingot pour 10,00 Egl"}
+,"51a7ebab-2dc1-4dab-b040-7147655af7a2": {"markup": false,"x": -1336.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1055.00,"label": "lyly33bis vend des Bricks pour 1,50 Egl"}
+,"af9d5dba-390c-4aae-8386-07320158e44b": {"markup": false,"x": -645.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Coal pour 1,00 Egl"}
+,"cd4af8b7-25c8-494f-826c-b8e9a6063259": {"markup": false,"x": -1263.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1092.00,"label": "Mirava vend des Music Disc Cat pour 5,00 Egl"}
+,"7d1aa648-69a9-4150-9bd7-896ceb8be857": {"markup": false,"x": -1057.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 465.00,"label": "thewomencraft vend des Melon Slice pour 1,00 Egl"}
+,"5b7b8273-67d1-436d-81c0-839fa8a9e363": {"markup": false,"x": -314.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Clay Ball pour 2,00 Egl"}
+,"5ed1dadc-7a82-49ce-bfc6-57fbd44a5419": {"markup": false,"x": -760.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 439.00,"label": "Auldeor vend des Rabbit Stew pour 2,50 Egl"}
+,"87631fc3-7a5c-4852-8e05-31ce8f04502b": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Tropical Fish pour 5,00 Egl"}
+,"ad69fb91-9f58-4853-b6ce-c2c4632a60ad": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Emerald Block pour 15,00 Egl"}
+,"79ff33a0-df6f-4bed-9617-c7069d174300": {"markup": false,"x": -2563.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 357.00,"label": "docteur_louis vend des Iron Axe pour 9,00 Egl"}
+,"8e0e807d-5bcb-457b-9b7b-49e73a3d4830": {"markup": false,"x": -279.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Stone pour 2,00 Egl"}
+,"ff372ef9-768e-4901-bdd8-6b77b4f5883e": {"markup": false,"x": -797.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 495.00,"label": "Baroriam vend des Golden Helmet pour 8,00 Egl"}
+,"f20c9e95-849b-4b53-9273-8eaca8f1c765": {"markup": false,"x": -1054.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 465.00,"label": "thewomencraft vend des Bread pour 1,00 Egl"}
+,"a74c0d83-7d2f-4c91-8959-9bba83b747c3": {"markup": false,"x": -607.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Glistering Melon Slice pour 1,00 Egl"}
+,"a0d9a7c8-0134-4def-8831-e0fc9e1c4d22": {"markup": false,"x": -1278.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1129.00,"label": "MrBlaZerYt vend des Diamond Sword pour 100,00 Egl"}
+,"11b35f09-8d57-49b4-80ff-31dfc28d81c9": {"markup": false,"x": -1266.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1090.00,"label": "Mirava vend des Carved Pumpkin pour 2,00 Egl"}
+,"550f9d13-a96a-41d1-89a7-8dd45d1d079d": {"markup": false,"x": -342.00,"icon": "pin","y": 81.00,"dim": "16x16","z": 125.00,"label": "Baroriam vend des Minecart pour 2,00 Egl"}
+,"500c74ef-7448-4c43-a1f6-efae5ba2ac8d": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3047.00,"label": "eternalfate89 vend des Wheat pour 0,30 Egl"}
+,"49a4fe6c-fc7e-4fde-9a2c-d44b6eda261e": {"markup": false,"x": -311.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Iron Ingot pour 3,00 Egl"}
+,"e9d948d7-0bfa-4a07-8e99-9199184ab035": {"markup": false,"x": -292.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Purple Dye pour 2,00 Egl"}
+,"28325409-d657-44e8-9446-b77d54541542": {"markup": false,"x": -312.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Birch Sapling pour 3,00 Egl"}
+,"6fdc072e-d387-4644-bc5c-08dde9cd1c5a": {"markup": false,"x": -2588.00,"icon": "pin","y": 67.00,"dim": "16x16","z": 319.00,"label": "azzindingue78 vend des Iron Nugget pour 15,00 Egl"}
+,"78fe48a6-60aa-40c3-9117-dfe182865382": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Cod pour 5,00 Egl"}
+,"1585cd0c-7852-41a7-8105-6f0c6095c0c2": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3082.00,"label": "killer_du_115 vend des Mossy Cobblestone pour 2,50 Egl"}
+,"01435e71-7a87-4cfa-9874-02972f8640b0": {"markup": false,"x": -641.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Carrot pour 0,01 Egl"}
+,"5184b0e0-3611-4eee-8172-204dec0f6646": {"markup": false,"x": -644.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Cocoa Beans pour 0,01 Egl"}
+,"f2992fe8-5be9-438a-b7ab-6b61b0dd5313": {"markup": false,"x": -304.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Wheat pour 1,00 Egl"}
+,"ac9575ef-756e-42b5-bcc8-8a432254e55e": {"markup": false,"x": -603.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Sugar pour 0,10 Egl"}
+,"134df307-249e-4adc-9b40-9cd20575ddc8": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Soul Sand pour 7,00 Egl"}
+,"ead9b587-bbe8-4f4b-a578-e7fd7260dce8": {"markup": false,"x": -607.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Fermented Spider Eye pour 0,50 Egl"}
+,"ec94fd91-cb83-4af3-a59f-ad41f5353bd7": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 396.00,"label": "Baroriam vend des Light Blue Dye pour 2,00 Egl"}
+,"e32b2ddd-b54f-4042-8dff-4dbc0442c5de": {"markup": false,"x": -612.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Enchanted Book pour 5,00 Egl"}
+,"63260cf2-d619-44f9-9d59-5f1a372ff121": {"markup": false,"x": -1277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1129.00,"label": "MrBlaZerYt vend des Gold Ingot pour 2,00 Egl"}
+,"29e251a4-774b-4ba1-98bf-6dbdf758ffc6": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3048.00,"label": "eternalfate89 vend des Mossy Cobblestone pour 0,30 Egl"}
+,"0c143906-d67e-416c-bb1a-a9e08f4eeb0a": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3043.00,"label": "eternalfate89 vend des Dirt pour 0,01 Egl"}
+,"68665809-c646-4d88-8c75-25ff0220103c": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Auldeor vend des Blaze Rod pour 9,00 Egl"}
+,"88a77300-12c7-4478-b5af-9b4762ebcc14": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Sea Lantern pour 2,00 Egl"}
+,"d80837cf-bf98-4d42-9f5b-56cb75c67ba8": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cobblestone pour 0,01 Egl"}
+,"e47978a4-790f-4829-a159-d505a3fecf99": {"markup": false,"x": -611.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Gold Nugget pour 1,00 Egl"}
+,"281cc7bc-8ec7-4d61-a2bb-0133d8703dec": {"markup": false,"x": -761.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Lapis Lazuli pour 0,75 Egl"}
+,"e93be6de-070a-430a-98f9-0ed3c9f0c084": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Chest pour 1,00 Egl"}
+,"607075db-ff49-4a81-8596-a9f0212fa744": {"markup": false,"x": -312.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Azure Bluet pour 3,00 Egl"}
+,"9204ae74-0b04-45b9-82f6-3e8d106d0a82": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3037.00,"label": "eternalfate89 vend des Redstone pour 0,01 Egl"}
+,"fcdb52d8-832f-4266-8798-c1de81ece082": {"markup": false,"x": -1223.00,"icon": "pin","y": 64.00,"dim": "16x16","z": 1076.00,"label": "titoine vend des Dirt pour 0,50 Egl"}
+,"3e3976f2-9762-4672-850e-779b036edd98": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3081.00,"label": "killer_du_115 vend des Rotten Flesh pour 0,00 Egl"}
+,"26aef33f-9480-42aa-8bde-23e404a98965": {"markup": false,"x": -1845.00,"icon": "pin","y": 64.00,"dim": "16x16","z": 3578.00,"label": "Baroriam vend des Bread pour 0,30 Egl"}
+,"8461e6e4-0dd3-451f-b960-f71510245117": {"markup": false,"x": -277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 401.00,"label": "Baroriam vend des Glowstone pour 3,00 Egl"}
+,"d959ffba-59a9-43a6-ae12-ec17e9bffe2f": {"markup": false,"x": -1278.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1124.00,"label": "MrBlaZerYt vend des Stone pour 2,00 Egl"}
+,"b952a910-2698-48d1-9d7a-ce32f9f27a45": {"markup": false,"x": -304.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Redstone Torch pour 0,20 Egl"}
+,"03a7d696-9365-45dd-b49b-2de20aa7d8e2": {"markup": false,"x": -610.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Spider Eye pour 0,50 Egl"}
+,"141d5eb1-2def-4610-8bea-b79bf8601f77": {"markup": false,"x": -605.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Bone pour 0,50 Egl"}
+,"be39eb3f-6194-4257-80c0-f86bcc88b071": {"markup": false,"x": -274.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 400.00,"label": "Baroriam vend des Enchanted Golden Apple pour 100,00 Egl"}
+,"cf5ea56a-3eb7-4316-ba19-cf68e4a7b4d6": {"markup": false,"x": -297.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 399.00,"label": "Baroriam vend des Bone pour 5,00 Egl"}
+,"598066ea-c02e-4317-a5d4-7b4f32f98935": {"markup": false,"x": -771.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Sugar Cane pour 0,20 Egl"}
+,"f8fc4ed2-c9fe-4725-975b-abe1ef00b2db": {"markup": false,"x": -303.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Sandstone pour 0,10 Egl"}
+,"40a7e1ff-107f-4ba6-bae5-7dfe1ccf49f4": {"markup": false,"x": -845.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Emerald pour 12,00 Egl"}
+,"415f9a5d-0746-4542-ab83-f3f14043c63f": {"markup": false,"x": -2908.00,"icon": "pin","y": 67.00,"dim": "16x16","z": 328.00,"label": "Baroriam vend des Cooked Porkchop pour 3,00 Egl"}
+,"506d2f29-9317-4444-b362-17e27fd854a0": {"markup": false,"x": -843.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Gold Ingot pour 6,00 Egl"}
+,"ac21f72b-a366-45e6-9259-f33a8eafcc69": {"markup": false,"x": -2560.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 296.00,"label": "regorf vend des Golden Horse Armor pour 7,00 Egl"}
+,"d055e1ea-8078-47f3-b318-4e6bb1467a58": {"markup": false,"x": -806.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 478.00,"label": "Baroriam vend des Blaze Rod pour 20,00 Egl"}
+,"9e91a5a4-e9cb-4efc-8156-bb30683f159c": {"markup": false,"x": -289.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 392.00,"label": "Baroriam vend des Red Dye pour 2,00 Egl"}
+,"4b78d759-c34c-4b63-9d0f-c07a1f98e9d9": {"markup": false,"x": -1257.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 987.00,"label": "docteur_louis vend des Flint pour 4,00 Egl"}
+,"b53f5b6d-fbb8-45d5-b192-87d11794583d": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Spruce Log pour 0,10 Egl"}
+,"ad8345fc-73d9-48ba-b96c-a65ec019ebde": {"markup": false,"x": -761.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des White Stained Glass pour 1,00 Egl"}
+,"a1942d0d-d597-4e57-8bf9-1c6b9db28668": {"markup": false,"x": -643.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Iron Ingot pour 1,00 Egl"}
+,"b519a22d-dee5-4ed3-8f85-4cfdee7982e9": {"markup": false,"x": -311.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Allium pour 3,00 Egl"}
+,"05e95297-c12e-4e6a-b699-15bd71cdd7dd": {"markup": false,"x": -811.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 489.00,"label": "Baroriam vend des Magma Cream pour 10,00 Egl"}
+,"9755bb8d-4920-4b34-a0f8-5c520623b7e9": {"markup": false,"x": -1052.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 470.00,"label": "thewomencraft vend des Quartz pour 1,00 Egl"}
+,"a53b38ae-2ef2-4c49-ab38-003fc75d33a1": {"markup": false,"x": -2561.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 295.00,"label": "regorf vend des Iron Chestplate pour 3,00 Egl"}
+,"5ad7d50e-32d4-4baf-b2f3-0e88f720c69f": {"markup": false,"x": -636.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Bread pour 5,00 Egl"}
+,"dbd8df12-fa5d-4d37-9ede-09041c8885f7": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Chainmail Helmet pour 250,00 Egl"}
+,"1386796e-47e6-49ab-a0d1-21f1529f3a24": {"markup": false,"x": -313.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Emerald pour 19,00 Egl"}
+,"b374d39f-e621-49f7-af90-a40be995a3bb": {"markup": false,"x": -1056.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 465.00,"label": "thewomencraft vend des Carved Pumpkin pour 1,00 Egl"}
+,"c2138072-3497-42b0-a115-0995aa580cb7": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2597.00,"label": "Neptune_7 vend des Enchanting Table pour 11,00 Egl"}
+,"361d8e13-4678-42a7-8b2f-7ccfca55df83": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Ender Chest pour 60,00 Egl"}
+,"043bb058-6873-442f-b9a0-fa393281aa2d": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3082.00,"label": "killer_du_115 vend des Red Wool pour 0,20 Egl"}
+,"78a7c293-5f7d-411b-befe-2eb306edc95d": {"markup": false,"x": -305.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Item Frame pour 5,00 Egl"}
+,"69cb5998-0273-4ae1-93be-1a3d2603e734": {"markup": false,"x": -855.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Nether Bricks pour 1,00 Egl"}
+,"f088c77b-27c9-4515-a468-a60ba8aaca9f": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Infested Stone Bricks pour 0,70 Egl"}
+,"a9d3dec8-94f7-4167-bf62-796318943b24": {"markup": false,"x": -640.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Sugar Cane pour 0,01 Egl"}
+,"c1aaa6bb-5a8d-4a21-8c1c-1cafca3b0d90": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 399.00,"label": "Baroriam vend des Bone Meal pour 1,00 Egl"}
+,"b188a387-0e71-4352-9e51-6c6bf3e3e47b": {"markup": false,"x": -285.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Flint pour 1,00 Egl"}
+,"0904f8d2-adf8-4e1f-9d22-2d031d926a5d": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Chainmail Boots pour 250,00 Egl"}
+,"43f07262-b834-4161-9219-ba5c7c109130": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Birch Log pour 0,10 Egl"}
+,"b93fdfff-79b7-4c18-910b-c31db0dd2c9a": {"markup": false,"x": -313.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Oxeye Daisy pour 3,00 Egl"}
+,"8f19177a-a06f-43a0-aab9-4060b035fc5e": {"markup": false,"x": -809.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 483.00,"label": "Baroriam vend des Glistering Melon Slice pour 5,00 Egl"}
+,"c3ec27fb-83f9-40da-bb20-fe3cace6c742": {"markup": false,"x": -310.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Glowstone Dust pour 3,00 Egl"}
+,"45bb4695-1973-47b5-8b49-0f06cd5ec740": {"markup": false,"x": -800.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 495.00,"label": "Baroriam vend des Golden Boots pour 6,00 Egl"}
+,"db4d1f09-4df2-44fe-8b2e-6691ef96812a": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Acacia Log pour 0,10 Egl"}
+,"fbac36fe-7c45-4e3d-a27d-6ba0d2d736aa": {"markup": false,"x": -770.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Wheat pour 0,20 Egl"}
+,"3e0df0af-c958-4a27-a033-573b2f20a0bc": {"markup": false,"x": -643.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Apple pour 0,50 Egl"}
+,"505cdae5-e6a7-483a-a018-5c3b393b4958": {"markup": false,"x": -759.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Iron Ingot pour 1,00 Egl"}
+,"20c44265-841a-45bc-a237-0229f85679f3": {"markup": false,"x": -1056.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 471.00,"label": "thewomencraft vend des Pumpkin Pie pour 1,00 Egl"}
+,"66adc546-ea74-4658-9c0d-0810f9c9a9fa": {"markup": false,"x": -303.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Repeater pour 0,50 Egl"}
+,"c1ef7cda-340e-4e0b-a23e-4a47faf51584": {"markup": false,"x": -812.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 481.00,"label": "Baroriam vend des Cauldron pour 8,00 Egl"}
+,"436d1ed0-f544-45a1-85c7-97efcb876c4e": {"markup": false,"x": -303.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Painting pour 5,00 Egl"}
+,"8ba550fb-e893-46b7-a9e2-9eb48b108763": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Prismarine Bricks pour 1,00 Egl"}
+,"914cd8bd-e143-41b5-a35b-8bbe8f5683d9": {"markup": false,"x": -846.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Ender Pearl pour 8,00 Egl"}
+,"928bb7f9-4ee5-4002-a878-18d327c86c57": {"markup": false,"x": -306.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Sandstone Slab pour 0,20 Egl"}
+,"4aa8d110-897a-41ea-aa07-f7ea6fd57ae3": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Red Mushroom pour 3,00 Egl"}
+,"3e557a92-df78-4c65-b5c5-846183e49a59": {"markup": false,"x": -760.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 460.00,"label": "Auldeor vend des Glass Pane pour 0,90 Egl"}
+,"a7c2ae71-cf8c-494f-9ca5-59741dfa4d03": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 489.00,"label": "Baroriam vend des Leather Boots pour 4,00 Egl"}
+,"a1600a5c-6c96-489a-98cb-6d92f5f5f42c": {"markup": false,"x": -286.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Coal pour 0,10 Egl"}
+,"ce592eba-c20c-48a0-8893-db4dd4339e49": {"markup": false,"x": -274.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Ender Chest pour 40,00 Egl"}
+,"73b66da0-976e-4f79-bab7-45511ad0cb23": {"markup": false,"x": -809.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 484.00,"label": "Baroriam vend des Beetroot pour 1,00 Egl"}
+,"1d1f29d8-bed8-477f-8fb1-de2fd4377dfb": {"markup": false,"x": -2562.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 367.00,"label": "lyly33bis vend des Carved Pumpkin pour 2,00 Egl"}
+,"913c5fdd-24fc-4a06-ab6b-bc8d5e54db27": {"markup": false,"x": -302.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Egg pour 2,00 Egl"}
+,"a84370d9-bfff-4b31-bfd7-ab92d94e9d8e": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 487.00,"label": "Baroriam vend des Golden Sword pour 4,00 Egl"}
+,"b5a6e62e-7375-4014-970b-7c6744c19df9": {"markup": false,"x": -613.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Magma Cream pour 1,50 Egl"}
+,"9f57df95-179e-4a36-abcb-7a93f2615f1c": {"markup": false,"x": -601.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3067.00,"label": "eternalfate89 vend des Music Disc Cat pour 3,00 Egl"}
+,"c408443e-7d7e-481d-be5e-57c009384460": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3045.00,"label": "eternalfate89 vend des Stone Bricks pour 0,10 Egl"}
+,"7b800edb-e3c4-41f4-a3ae-1feb2b731e6b": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Glowstone pour 5,00 Egl"}
+,"27038d1d-1d5d-4b72-bba7-76722e90a27d": {"markup": false,"x": -314.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Oak Sapling pour 3,00 Egl"}
+,"a46c3237-ff2a-4171-a57d-59e5eebcf02f": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Coarse Dirt pour 0,01 Egl"}
+,"f05ef3a5-132d-439c-995c-eb060eca987c": {"markup": false,"x": -612.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Lapis Lazuli pour 0,01 Egl"}
+,"12f38962-4a23-4ea1-9769-c82364b341de": {"markup": false,"x": -1268.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1163.00,"label": "tutu2222 vend des Redstone pour 10,00 Egl"}
+,"46aff384-02be-48b9-8fe8-856dee907946": {"markup": false,"x": -1338.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1058.00,"label": "lyly33bis vend des Spruce Log pour 0,50 Egl"}
+,"25462435-6fe4-405a-9a3d-684662e3a6b0": {"markup": false,"x": -205.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 150.00,"label": "Baroriam vend des Minecart pour 1,00 Egl"}
+,"4dcfc995-690f-4067-b6dd-c51dad693dae": {"markup": false,"x": -296.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Orange Dye pour 2,00 Egl"}
+,"58841cf4-14c2-45ca-afaa-5b39a8d87e8b": {"markup": false,"x": -314.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Sunflower pour 3,00 Egl"}
+,"660050d8-299a-4b93-928b-76959c8720c5": {"markup": false,"x": -310.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Blue Orchid pour 3,00 Egl"}
+,"f975983b-5543-47e0-8c57-7c2fbb573331": {"markup": false,"x": -287.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Gold Ingot pour 10,00 Egl"}
+,"a095303c-e1c7-4643-b5b5-d09172d1e786": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3039.00,"label": "eternalfate89 vend des White Wool pour 0,10 Egl"}
+,"ff025221-f708-4ec0-80c0-9b6a96c8b134": {"markup": false,"x": -2563.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 356.00,"label": "docteur_louis vend des Iron Sword pour 7,00 Egl"}
+,"efc2efe8-5dbb-4474-aa52-df2ead536433": {"markup": false,"x": -277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 400.00,"label": "Baroriam vend des Netherrack pour 2,00 Egl"}
+,"baa015bd-8139-4cbf-81a1-33b94b5c23b5": {"markup": false,"x": -810.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 489.00,"label": "Baroriam vend des Blaze Powder pour 5,00 Egl"}
+,"f97a554f-19c0-4f4a-9b93-f7bacd99fb49": {"markup": false,"x": -649.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Chestplate pour 2,00 Egl"}
+,"dbb53724-242f-492b-a761-7511d2cffc47": {"markup": false,"x": -641.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Golden Apple pour 6,00 Egl"}
+,"98bfbd05-7267-42f4-8c06-f57d956f3629": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3046.00,"label": "eternalfate89 vend des Spruce Planks pour 0,30 Egl"}
+,"610d0ed1-6e1e-448d-8c00-ff0b06121afc": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Lily Pad pour 1,00 Egl"}
+,"ade75558-de02-4c40-b813-ebd55be0e06f": {"markup": false,"x": -288.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 402.00,"label": "Baroriam vend des Minecart pour 4,00 Egl"}
+,"43a89d14-1f60-4f64-ab98-47f0f3b679ad": {"markup": false,"x": -322.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Stone pour 0,05 Egl"}
+,"a8bc6a0d-87d4-486a-ab6d-2dcacea45a6c": {"markup": false,"x": -274.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 394.00,"label": "Baroriam vend des Beehive pour 6,00 Egl"}
+,"93c44cb1-db41-4aca-bf6f-42efcbb6faa1": {"markup": false,"x": -319.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Cracked Stone Bricks pour 1,00 Egl"}
+,"51609bab-30ce-4909-8af6-6ba368cc4b82": {"markup": false,"x": -311.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Jungle Sapling pour 3,00 Egl"}
+,"2df33ccb-7fda-4460-8668-310986d2f338": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3049.00,"label": "eternalfate89 vend des Glass pour 0,30 Egl"}
+,"9ff7922f-ba5b-4380-89d3-a188f91d7b78": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Dark Prismarine pour 2,00 Egl"}
+,"c1a9e26d-7f8f-41fc-9c43-dd773d9ac0f7": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2598.00,"label": "Neptune_7 vend des Anvil pour 10,00 Egl"}
+,"4e45ed36-4f58-4e66-ab5c-e18378ad072b": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Chainmail Chestplate pour 250,00 Egl"}
+,"670d52cf-c22d-496a-958f-68704f54af45": {"markup": false,"x": -634.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3084.00,"label": "killer_du_115 vend des Gray Wool pour 0,20 Egl"}
+,"95fc1722-5ac7-4502-b7b5-969321df3f87": {"markup": false,"x": -648.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Netherrack pour 0,01 Egl"}
+,"bdd695dc-e093-4f20-a393-7f4cc664c561": {"markup": false,"x": -601.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3064.00,"label": "eternalfate89 vend des Enchanting Table pour 10,00 Egl"}
+,"c910f725-892c-42de-9f7b-4f049207f3e9": {"markup": false,"x": -2559.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 296.00,"label": "regorf vend des Iron Sword pour 2,00 Egl"}
+,"7971934c-3de4-4a7e-be48-7a9984655286": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3042.00,"label": "eternalfate89 vend des Snow Block pour 0,01 Egl"}
+,"3969d928-3940-44c9-a9eb-1def8388c40f": {"markup": false,"x": -840.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2589.00,"label": "Neptune_7 vend des Saddle pour 5,00 Egl"}
+,"cd953a82-40b3-4c76-b638-09617abc0f7a": {"markup": false,"x": -280.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Oak Log pour 0,50 Egl"}
+,"51e75a42-7f25-41cd-8154-a3e642cfc879": {"markup": false,"x": -277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 403.00,"label": "Baroriam vend des Infested Cobblestone pour 0,01 Egl"}
+,"a65c9883-d768-4470-95b5-aa3279beecda": {"markup": false,"x": -304.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Red Bed pour 5,00 Egl"}
+,"797dbb74-8bb5-4238-8a36-5058ae39cab4": {"markup": false,"x": -646.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Feather pour 0,50 Egl"}
+,"3fa25cb7-407f-417c-ba1c-04c2b19f6338": {"markup": false,"x": -647.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Ink Sac pour 0,30 Egl"}
+,"64068525-f7b2-40f4-b7fa-4ea9e7d4893c": {"markup": false,"x": -289.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Emerald pour 19,00 Egl"}
+,"d35f2b40-62c3-4a21-8c18-cb7445d54ec3": {"markup": false,"x": -635.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Melon Slice pour 1,00 Egl"}
+,"404ecce7-938a-49ca-a34e-f551e3d068f8": {"markup": false,"x": -273.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 394.00,"label": "Baroriam vend des Bee Nest pour 6,00 Egl"}
+,"8d3f1d28-2a1b-4bb8-917d-89d1893ed23f": {"markup": false,"x": -1265.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1166.00,"label": "tutu2222 vend des Iron Ingot pour 5,00 Egl"}
+,"a55a17a4-a737-4ddc-8556-003d19862695": {"markup": false,"x": -796.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 493.00,"label": "Baroriam vend des Iron Leggings pour 6,00 Egl"}
+,"a4e7fa8d-2d28-4b1d-9fb7-c6319255a2b4": {"markup": false,"x": -1277.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1124.00,"label": "MrBlaZerYt vend des Carrot pour 1,50 Egl"}
+,"bf748eaa-85e4-4d95-a048-6296aa0ce701": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3044.00,"label": "eternalfate89 vend des Smooth Stone Slab pour 0,10 Egl"}
+,"4879149c-d507-4b17-a980-ed708b38b21f": {"markup": false,"x": -766.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 466.00,"label": "Auldeor vend des Rabbit pour 1,00 Egl"}
+,"5411346f-5143-4979-9693-efc82bc2577d": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3045.00,"label": "eternalfate89 vend des Packed Ice pour 0,30 Egl"}
+,"8d9ce2f9-a81d-4824-ab9d-5d562f90b574": {"markup": false,"x": -761.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 439.00,"label": "Auldeor vend des Pumpkin Pie pour 1,00 Egl"}
+,"a282411e-894c-4ef7-93a8-b2792dde9484": {"markup": false,"x": -606.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Golden Carrot pour 1,00 Egl"}
+,"1fb0a9b2-bbca-4c4a-b65f-b84d05bb9716": {"markup": false,"x": -640.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Red Dye pour 1,00 Egl"}
+,"29b601da-26dd-4b6c-b7c2-2f4045699ce0": {"markup": false,"x": -646.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Comparator pour 0,50 Egl"}
+,"d64e3201-6872-42f3-a4ad-6ac08fbb4d1c": {"markup": false,"x": -302.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Redstone pour 0,10 Egl"}
+,"d3ab322c-a457-440f-9464-4f51e19aeac9": {"markup": false,"x": -1078.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 590.00,"label": "lyly33bis vend des Bone Meal pour 3,50 Egl"}
+,"b6a052d0-f9ab-4b29-bc48-cca38c2726c8": {"markup": false,"x": -1275.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1126.00,"label": "MrBlaZerYt vend des Note Block pour 5,00 Egl"}
+,"79c6f9e1-06eb-4881-9ff8-f1cc271e810c": {"markup": false,"x": -2560.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 370.00,"label": "lyly33bis vend des Soul Sand pour 1,00 Egl"}
+,"c342a924-c3e4-49ed-ab25-dcedff1e5bbc": {"markup": false,"x": -297.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Cooked Cod pour 7,50 Egl"}
+,"180ad216-8483-4dbf-b65d-141dc34d2675": {"markup": false,"x": -314.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Coal pour 0,10 Egl"}
+,"756bb1b8-12e8-4555-b8e3-79abb31df27a": {"markup": false,"x": -313.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Spruce Sapling pour 3,00 Egl"}
+,"3b5c7165-2f80-4521-8d3f-00a2c036a285": {"markup": false,"x": -650.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3038.00,"label": "eternalfate89 vend des Orange Terracotta pour 0,10 Egl"}
+,"0d515a9d-a226-46f9-ad9d-a92597980188": {"markup": false,"x": -320.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Diorite pour 0,50 Egl"}
+,"c99fe7ed-67b5-4a2d-94af-e8ce93721f16": {"markup": false,"x": -311.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Gunpowder pour 10,00 Egl"}
+,"f7e2e2d3-38a8-4b3d-844c-b1e43160aaa9": {"markup": false,"x": -639.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Birch Log pour 0,10 Egl"}
+,"9f6bbaf2-eefd-41a8-9377-aefe553b2ddb": {"markup": false,"x": -642.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Diamond pour 3,50 Egl"}
+,"73f1d387-8feb-45d4-8f12-c110efcc1eb1": {"markup": false,"x": -644.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Gold Ingot pour 2,00 Egl"}
+,"76be86c6-8eeb-4b73-bc83-7bd8952b1d41": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Brown Mushroom pour 3,00 Egl"}
+,"2451f245-dd2d-4cdf-9603-57b70bb3ee0a": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Chiseled Stone Bricks pour 1,00 Egl"}
+,"67b1cb29-8d77-4d26-83d3-6aa50c216f64": {"markup": false,"x": -273.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 399.00,"label": "Baroriam vend des Enchanting Table pour 40,00 Egl"}
+,"fd507271-e8be-4e76-8b8d-666e8f91d297": {"markup": false,"x": -601.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3068.00,"label": "eternalfate89 vend des Golden Apple pour 3,00 Egl"}
+,"2d1070d4-a00a-4321-b591-3b50a04261f3": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3038.00,"label": "eternalfate89 vend des Baked Potato pour 0,02 Egl"}
+,"89b71806-d0c5-41d3-a824-a1714c4b8b65": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3083.00,"label": "killer_du_115 vend des Sugar Cane pour 0,50 Egl"}
+,"106ce430-c96e-49bc-b823-f8f1c59c6baa": {"markup": false,"x": -1257.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 986.00,"label": "docteur_louis vend des Saddle pour 25,01 Egl"}
+,"d7167525-c5e9-4e25-94ad-a2ad8a1cf76d": {"markup": false,"x": -312.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Flint pour 5,00 Egl"}
+,"a46b9b60-9ed6-4241-91ec-72aed348f1f6": {"markup": false,"x": -298.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Nether Brick Stairs pour 5,00 Egl"}
+,"b88e1fc4-ea6f-4410-bdbb-5b04c4bae25a": {"markup": false,"x": -294.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Auldeor vend des Diamond Horse Armor pour 70,00 Egl"}
+,"8417645f-cae7-4482-9587-2d0e51179bde": {"markup": false,"x": -648.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Boots pour 2,00 Egl"}
+,"88244760-c756-4df7-9d4c-0075d1ff47de": {"markup": false,"x": -601.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3066.00,"label": "eternalfate89 vend des Music Disc 13 pour 3,00 Egl"}
+,"6602c6a0-0fb2-45c8-9432-b3accc68260f": {"markup": false,"x": -1079.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 590.00,"label": "lyly33bis vend des Iron Ingot pour 3,00 Egl"}
+,"4af064c2-ebc6-4888-8ce7-a0b297f8f82a": {"markup": false,"x": -641.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Leggings pour 2,00 Egl"}
+,"9af384d8-a135-4e82-97f1-4863026fe997": {"markup": false,"x": -1266.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1166.00,"label": "tutu2222 vend des Gold Nugget pour 2,00 Egl"}
+,"8f0b7a23-1c55-4425-a4ba-aec139ecdcdb": {"markup": false,"x": -605.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3070.00,"label": "eternalfate89 vend des Redstone pour 0,01 Egl"}
+,"eb7f7b88-38b2-4f7b-966f-3a18ca4f8c41": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 495.00,"label": "Baroriam vend des Golden Leggings pour 7,00 Egl"}
+,"e8654960-3659-49d7-ad59-d279acfef2a6": {"markup": false,"x": -273.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 398.00,"label": "Baroriam vend des Quartz Block pour 1,50 Egl"}
+,"3846ae8a-2106-49a1-9b44-06c92976a8cd": {"markup": false,"x": -295.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cooked Chicken pour 4,00 Egl"}
+,"f330d92f-f092-4b15-9d14-b0f7ee2e58e0": {"markup": false,"x": -305.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 321.00,"label": "Baroriam vend des Piston pour 5,00 Egl"}
+,"47050507-70c5-4e6f-b377-beb1ba0e9cf9": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 300.00,"label": "Baroriam vend des Crafting Table pour 1,00 Egl"}
+,"97868d74-4f65-404c-900e-14d532f17cb3": {"markup": false,"x": -857.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2601.00,"label": "Neptune_7 vend des Blaze Rod pour 3,00 Egl"}
+,"c3b0814e-6d92-4919-b38c-a377a3312342": {"markup": false,"x": -806.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 479.00,"label": "Baroriam vend des Enchanting Table pour 30,00 Egl"}
+,"9a37a876-7877-4fdc-9a8f-0d783e1774a6": {"markup": false,"x": -294.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 393.00,"label": "Baroriam vend des Light Gray Dye pour 2,00 Egl"}
+,"41994697-3d58-42da-ac3a-41eea646273c": {"markup": false,"x": -305.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Leather pour 1,00 Egl"}
+,"0d1ee4ba-f476-4925-b9b1-d5f821a826cb": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3086.00,"label": "killer_du_115 vend des Glowstone pour 0,50 Egl"}
+,"bf23bc0a-acd8-4a45-9b66-17e512555c3f": {"markup": false,"x": -321.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Jungle Log pour 0,10 Egl"}
+,"6b498f67-b355-49c3-8fef-32951593d4b7": {"markup": false,"x": -274.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 399.00,"label": "Baroriam vend des Ender Eye pour 50,00 Egl"}
+,"59464e43-e6b0-4af4-95ea-741ee9b7fed7": {"markup": false,"x": -2561.00,"icon": "pin","y": 66.00,"dim": "16x16","z": 294.00,"label": "regorf vend des Iron Pickaxe pour 2,00 Egl"}
+,"244c0555-fac6-4e57-996d-23dadc9bde2d": {"markup": false,"x": -296.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Cooked Mutton pour 4,00 Egl"}
+,"04644113-451f-4e32-b60f-a6c34f13fdc2": {"markup": false,"x": -318.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 308.00,"label": "Baroriam vend des Lapis Block pour 5,00 Egl"}
+,"903fc80d-0a5d-468e-aac4-fdfbff8ff476": {"markup": false,"x": -647.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Cobblestone pour 0,01 Egl"}
+,"ca61de5e-512b-4dd6-855f-127dc73ab8df": {"markup": false,"x": -639.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Oak Fence pour 0,50 Egl"}
+,"10ed8a81-d387-4db7-8e32-10e47d194d0b": {"markup": false,"x": -1280.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 1127.00,"label": "MrBlaZerYt vend des Cobblestone pour 0,10 Egl"}
+,"3859bb3e-dd28-45e1-a6e1-506d06c6f29e": {"markup": false,"x": -1335.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 1055.00,"label": "lyly33bis vend des Oak Log pour 0,50 Egl"}
+,"2baa5ad6-14c5-46af-8d93-2f638dc2841a": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3043.00,"label": "eternalfate89 vend des Cooked Porkchop pour 0,02 Egl"}
+,"9b22b683-92ce-468b-a57e-5d21c538ed7b": {"markup": false,"x": -642.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3050.00,"label": "eternalfate89 vend des Leather Leggings pour 2,00 Egl"}
+,"d8fc648a-9de8-4e17-98b4-a2e3ddca6cb6": {"markup": false,"x": -799.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 488.00,"label": "Baroriam vend des Stone Sword pour 1,00 Egl"}
+,"40f7e996-42ec-473b-a2c0-4bc9b84f3c48": {"markup": false,"x": -642.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3036.00,"label": "eternalfate89 vend des Melon Slice pour 0,01 Egl"}
+,"681334ca-23a5-467a-93b5-089d58842102": {"markup": false,"x": -806.00,"icon": "pin","y": 75.00,"dim": "16x16","z": 480.00,"label": "Baroriam vend des Brewing Stand pour 20,00 Egl"}
+,"b7d2c539-dc9c-4ca6-8e2f-7ef31af24154": {"markup": false,"x": -306.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 318.00,"label": "Baroriam vend des Armor Stand pour 3,00 Egl"}
+,"fb664790-c9d8-4273-82f9-c0fee07a542b": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3042.00,"label": "eternalfate89 vend des Sand pour 0,10 Egl"}
+,"f24df1ae-4665-4bd3-8443-9edd3243118d": {"markup": false,"x": -641.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3085.00,"label": "killer_du_115 vend des White Wool pour 0,20 Egl"}
+,"41fb5eeb-2a4b-48d6-905e-e10c885ddf66": {"markup": false,"x": -650.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 3041.00,"label": "eternalfate89 vend des Powered Rail pour 0,02 Egl"}
+,"61e4efd3-ff1d-4868-b8b1-66c59abfdf86": {"markup": false,"x": -668.00,"icon": "pin","y": 81.00,"dim": "16x16","z": 417.00,"label": "Baroriam vend des Minecart pour 2,00 Egl"}
+,"2b8377cd-d91a-47a7-a3c2-c4e8dbad343a": {"markup": false,"x": -840.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2588.00,"label": "Neptune_7 vend des Zombie Head pour 10,00 Egl"}
+,"9476c6d7-949d-4264-be55-02e311082460": {"markup": false,"x": -2907.00,"icon": "pin","y": 67.00,"dim": "16x16","z": 328.00,"label": "Baroriam vend des Bread pour 1,00 Egl"}
+,"14ddfcf8-1e2f-4793-bf1d-91a59286cba2": {"markup": false,"x": -608.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3062.00,"label": "eternalfate89 vend des Poisonous Potato pour 0,10 Egl"}
+,"605db6b9-73fb-4472-89ae-c8aca5b5ab40": {"markup": false,"x": -313.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Charcoal pour 0,10 Egl"}
+,"51268449-2b26-4989-9bba-edcc0d0d7fe6": {"markup": false,"x": -637.00,"icon": "pin","y": 76.00,"dim": "16x16","z": 3037.00,"label": "eternalfate89 vend des Rotten Flesh pour 0,01 Egl"}
+,"ded4ce61-a810-4652-ab48-e070862fd64f": {"markup": false,"x": -303.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 287.00,"label": "Baroriam vend des Feather pour 2,00 Egl"}
+,"2a081e06-228d-4efa-8604-5727bca7138f": {"markup": false,"x": -637.00,"icon": "pin","y": 52.00,"dim": "16x16","z": 3080.00,"label": "killer_du_115 vend des Spider Eye pour 8,00 Egl"}
+,"a545b441-3a54-4df4-bfe7-80a8748cf7a2": {"markup": false,"x": -305.00,"icon": "pin","y": 28.00,"dim": "16x16","z": 290.00,"label": "Baroriam vend des Cut Sandstone pour 5,00 Egl"}
+,"24e0cad2-aeeb-423b-a592-78dc6f917589": {"markup": false,"x": -1058.00,"icon": "pin","y": 68.00,"dim": "16x16","z": 467.00,"label": "thewomencraft vend des Pumpkin Seeds pour 1,00 Egl"}
+,"96c5ac80-ee24-40f0-98ab-73daa4b219a8": {"markup": false,"x": -853.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 2584.00,"label": "Neptune_7 vend des Quartz pour 0,75 Egl"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"world_of_eagle_zonenature_23": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1864.00,-1864.00,-1663.00,-1663.00]
+,"weight": 2,"z": [3411.00,3612.00,3612.00,3411.00]
+,"ybottom": 64.00,"label": "Zonenature_23","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_23<\/div><\/div>"}
+,"world_of_eagle_zonenature_22": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-238.00,-238.00,-34.00,-34.00]
+,"weight": 2,"z": [-1470.00,-1266.00,-1266.00,-1470.00]
+,"ybottom": 64.00,"label": "Zonenature_22","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_22<\/div><\/div>"}
+,"world_of_eagle_arthuit_general_alentours": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-473.00,-473.00,-58.00,-58.00]
+,"weight": 2,"z": [32.00,518.00,518.00,32.00]
+,"ybottom": 64.00,"label": "Arthuit_general_alentours","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_general_alentours<\/div><\/div>"}
+,"world_of_eagle_zonenature_21": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-510.00,-510.00,-306.00,-306.00]
+,"weight": 2,"z": [-1854.00,-1650.00,-1650.00,-1854.00]
+,"ybottom": 64.00,"label": "Zonenature_21","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_21<\/div><\/div>"}
+,"world_of_eagle_mob_spawn_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1292.00,1292.00,1307.00,1307.00]
+,"weight": 2,"z": [-1580.00,-1565.00,-1565.00,-1580.00]
+,"ybottom": 64.00,"label": "Mob_spawn_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Mob_spawn_1<\/div><\/div>"}
+,"world_of_eagle_zonenature_20": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-4391.00,-4391.00,-4233.00,-4233.00]
+,"weight": 2,"z": [217.00,375.00,375.00,217.00]
+,"ybottom": 64.00,"label": "Zonenature_20","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_20<\/div><\/div>"}
+,"world_of_eagle_coeur_historique": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-923.00,-923.00,235.00,235.00]
+,"weight": 2,"z": [-451.00,924.00,924.00,-451.00]
+,"ybottom": 64.00,"label": "Coeur_historique","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Coeur_historique<\/div><\/div>"}
+,"world_of_eagle_sepina_carte": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1174.00,-1174.00,-1169.00,-1169.00]
+,"weight": 2,"z": [1039.00,1041.00,1041.00,1039.00]
+,"ybottom": 64.00,"label": "Sepina_carte","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Sepina_carte<\/div><\/div>"}
+,"world_of_eagle_apocalipse": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-158.00,-334.00,-334.00,-337.00,-337.00,-484.00,-484.00,-353.00,-353.00,36.00,36.00,-158.00]
+,"weight": 2,"z": [131.00,131.00,101.00,101.00,18.00,18.00,-207.00,-207.00,-101.00,-101.00,192.00,192.00]
+,"ybottom": 64.00,"label": "Apocalipse","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Apocalipse<\/div><\/div>"}
+,"world_of_eagle_zonenature_29": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1939.00,-1939.00,-1711.00,-1711.00]
+,"weight": 2,"z": [3497.00,3744.00,3744.00,3497.00]
+,"ybottom": 64.00,"label": "Zonenature_29","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_29<\/div><\/div>"}
+,"world_of_eagle_zonenature_28": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-593.00,-593.00,-192.00,-192.00]
+,"weight": 2,"z": [3697.00,4098.00,4098.00,3697.00]
+,"ybottom": 64.00,"label": "Zonenature_28","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_28<\/div><\/div>"}
+,"world_of_eagle_zonenature_27": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2552.00,-2552.00,-2151.00,-2151.00]
+,"weight": 2,"z": [498.00,899.00,899.00,498.00]
+,"ybottom": 64.00,"label": "Zonenature_27","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_27<\/div><\/div>"}
+,"world_of_eagle_arthuit_arc": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-553.00,-553.00,-432.00,-432.00]
+,"weight": 2,"z": [476.00,597.00,597.00,476.00]
+,"ybottom": 64.00,"label": "Arthuit_arc","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_arc<\/div><\/div>"}
+,"world_of_eagle_zonenature_26": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2737.00,-2737.00,-2336.00,-2336.00]
+,"weight": 2,"z": [1164.00,1565.00,1565.00,1164.00]
+,"ybottom": 64.00,"label": "Zonenature_26","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_26<\/div><\/div>"}
+,"world_of_eagle_zonenature_25": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1518.00,-1518.00,-1416.00,-1416.00]
+,"weight": 2,"z": [4290.00,4392.00,4392.00,4290.00]
+,"ybottom": 64.00,"label": "Zonenature_25","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_25<\/div><\/div>"}
+,"world_of_eagle_zonenature_24": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [4594.00,4594.00,4765.00,4765.00]
+,"weight": 2,"z": [-4641.00,-4470.00,-4470.00,-4641.00]
+,"ybottom": 64.00,"label": "Zonenature_24","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_24<\/div><\/div>"}
+,"world_of_eagle_arthuit_espace_nature_grotte": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-583.00,-583.00,-382.00,-382.00]
+,"weight": 2,"z": [-161.00,40.00,40.00,-161.00]
+,"ybottom": 64.00,"label": "Arthuit_espace_nature_grotte","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_espace_nature_grotte<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_aurore_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-32.00,-32.00,-64.00,-64.00,-80.00,-80.00,-64.00,-64.00,16.00,16.00,32.00,32.00,112.00,112.00,128.00,128.00,144.00,144.00,176.00,176.00,208.00,208.00,224.00,224.00,208.00,208.00,176.00,176.00,144.00,144.00,128.00,128.00,96.00,96.00,48.00,48.00,0.00,0.00]
+,"weight": 2,"z": [240.00,256.00,256.00,272.00,272.00,304.00,304.00,320.00,320.00,336.00,336.00,384.00,384.00,368.00,368.00,352.00,352.00,368.00,368.00,352.00,352.00,320.00,320.00,304.00,304.00,288.00,288.00,304.00,304.00,224.00,224.00,208.00,208.00,192.00,192.00,224.00,224.00,240.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_aurore_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_aurore_0<\/div><\/div>"}
+,"world_of_eagle_arthuit_sud": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-334.00,-334.00,-158.00,-158.00]
+,"weight": 2,"z": [337.00,418.00,418.00,337.00]
+,"ybottom": 64.00,"label": "Arthuit_sud","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_sud<\/div><\/div>"}
+,"world_of_eagle_zonenature_33": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [2097.00,2097.00,2600.00,2600.00]
+,"weight": 2,"z": [-910.00,-603.00,-603.00,-910.00]
+,"ybottom": 64.00,"label": "Zonenature_33","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_33<\/div><\/div>"}
+,"world_of_eagle_zonenature_32": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2561.00,-2561.00,-1959.00,-1959.00]
+,"weight": 2,"z": [2204.00,2720.00,2720.00,2204.00]
+,"ybottom": 64.00,"label": "Zonenature_32","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_32<\/div><\/div>"}
+,"world_of_eagle_zonenature_31": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2239.00,-2239.00,-1837.00,-1837.00]
+,"weight": 2,"z": [1258.00,1837.00,1837.00,1258.00]
+,"ybottom": 64.00,"label": "Zonenature_31","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_31<\/div><\/div>"}
+,"world_of_eagle_zonenature_30": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1306.00,-1306.00,-1245.00,-1245.00]
+,"weight": 2,"z": [629.00,690.00,690.00,629.00]
+,"ybottom": 64.00,"label": "Zonenature_30","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_30<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_villa-galla-romane_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-992.00,-992.00,-960.00,-960.00,-944.00,-944.00,-928.00,-928.00,-944.00,-944.00,-992.00,-992.00,-1008.00,-1008.00,-1120.00,-1120.00,-1072.00,-1072.00]
+,"weight": 2,"z": [704.00,688.00,688.00,592.00,592.00,576.00,576.00,432.00,432.00,416.00,416.00,400.00,400.00,384.00,384.00,672.00,672.00,704.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_villa-galla-romane_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_villa-galla-romane_0<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_axorius_4": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-839.00,-839.00,-648.00,-648.00]
+,"weight": 2,"z": [754.00,763.00,763.00,754.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_axorius_4","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_axorius_4<\/div><\/div>"}
+,"world_of_eagle_pont_chinesia_montana": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-649.00,-649.00,-640.00,-640.00]
+,"weight": 2,"z": [2849.00,3035.00,3035.00,2849.00]
+,"ybottom": 64.00,"label": "Pont_chinesia_montana","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Pont_chinesia_montana<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_axorius_3": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-649.00,-649.00,-641.00,-641.00]
+,"weight": 2,"z": [754.00,773.00,773.00,754.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_axorius_3","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_axorius_3<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_axorius_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-649.00,-649.00,-530.00,-530.00]
+,"weight": 2,"z": [772.00,781.00,781.00,772.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_axorius_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_axorius_2<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_axorius_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-530.00,-530.00,-519.00,-519.00]
+,"weight": 2,"z": [721.00,783.00,783.00,721.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_axorius_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_axorius_1<\/div><\/div>"}
+,"world_of_eagle_arthuit_nord": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-334.00,-334.00,-158.00,-158.00]
+,"weight": 2,"z": [132.00,272.00,272.00,132.00]
+,"ybottom": 64.00,"label": "Arthuit_nord","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_nord<\/div><\/div>"}
+,"world_of_eagle_sepina_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1292.00,-1292.00,-1279.00,-1279.00]
+,"weight": 2,"z": [1131.00,1144.00,1144.00,1131.00]
+,"ybottom": 64.00,"label": "Sepina_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Sepina_stationair<\/div><\/div>"}
+,"world_of_eagle_aurore_mairie": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [39.00,39.00,97.00,97.00]
+,"weight": 2,"z": [332.00,366.00,366.00,332.00]
+,"ybottom": 64.00,"label": "Aurore_mairie","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Aurore_mairie<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_axorius_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-864.00,-864.00,-848.00,-848.00,-608.00,-608.00]
+,"weight": 2,"z": [320.00,720.00,720.00,768.00,768.00,320.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_axorius_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_axorius_0<\/div><\/div>"}
+,"world_of_eagle_arthuit_centre_ville": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-334.00,-334.00,-159.00,-159.00]
+,"weight": 2,"z": [269.00,340.00,340.00,269.00]
+,"ybottom": 64.00,"label": "Arthuit_centre_ville","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_centre_ville<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_nouvelle-aurore_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-608.00,-608.00,-208.00,-208.00]
+,"weight": 2,"z": [512.00,832.00,832.00,512.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_nouvelle-aurore_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_nouvelle-aurore_0<\/div><\/div>"}
+,"world_of_eagle_arthuit_ferme": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-466.00,-466.00,-464.00,-464.00]
+,"weight": 2,"z": [207.00,209.00,209.00,207.00]
+,"ybottom": 64.00,"label": "Arthuit_ferme","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_ferme<\/div><\/div>"}
+,"world_of_eagle_zonenature_5": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [216.00,216.00,659.00,659.00]
+,"weight": 2,"z": [148.00,565.00,565.00,148.00]
+,"ybottom": 64.00,"label": "Zonenature_5","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_5<\/div><\/div>"}
+,"world_of_eagle_zonenature_4": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [231.00,231.00,465.00,465.00]
+,"weight": 2,"z": [1568.00,1811.00,1811.00,1568.00]
+,"ybottom": 64.00,"label": "Zonenature_4","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_4<\/div><\/div>"}
+,"world_of_eagle_zonenature_3": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1075.00,-1075.00,-837.00,-837.00]
+,"weight": 2,"z": [558.00,762.00,762.00,558.00]
+,"ybottom": 64.00,"label": "Zonenature_3","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_3<\/div><\/div>"}
+,"world_of_eagle_zonenature_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [742.00,742.00,1243.00,1243.00]
+,"weight": 2,"z": [-1547.00,-1046.00,-1046.00,-1547.00]
+,"ybottom": 64.00,"label": "Zonenature_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_2<\/div><\/div>"}
+,"world_of_eagle_zonenature_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-159.00,-159.00,19.00,19.00]
+,"weight": 2,"z": [289.00,416.00,416.00,289.00]
+,"ybottom": 64.00,"label": "Zonenature_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_1<\/div><\/div>"}
+,"world_of_eagle_axorius_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-662.00,-662.00,-641.00,-641.00]
+,"weight": 2,"z": [693.00,714.00,714.00,693.00]
+,"ybottom": 64.00,"label": "Axorius_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Axorius_stationair<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_montana_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-512.00,-512.00,-560.00,-560.00,-608.00,-608.00,-624.00,-624.00,-656.00,-656.00,-688.00,-688.00,-672.00,-672.00,-656.00,-656.00,-448.00,-448.00,-432.00,-432.00]
+,"weight": 2,"z": [2928.00,2912.00,2912.00,2896.00,2896.00,2912.00,2912.00,2928.00,2928.00,2992.00,2992.00,3008.00,3008.00,3088.00,3088.00,3104.00,3104.00,3040.00,3040.00,2928.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_montana_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_montana_0<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_eternia_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-4096.00,-4112.00,-4112.00,-4128.00,-4128.00,-4144.00,-4144.00,-4176.00,-4176.00,-4192.00,-4192.00,-4176.00,-4176.00,-4160.00,-4160.00,-4112.00,-4112.00,-4032.00,-4032.00,-4016.00,-4016.00,-4000.00,-4000.00,-3968.00,-3968.00,-4016.00,-4016.00,-4080.00,-4080.00,-4096.00]
+,"weight": 2,"z": [-112.00,-112.00,-80.00,-80.00,-64.00,-64.00,-48.00,-48.00,-32.00,-32.00,16.00,16.00,32.00,32.00,48.00,48.00,80.00,80.00,48.00,48.00,32.00,32.00,16.00,16.00,-160.00,-160.00,-176.00,-176.00,-160.00,-160.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_eternia_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_eternia_0<\/div><\/div>"}
+,"world_of_eagle_pont_nouvelleaurore_chinesia": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-651.00,-651.00,-639.00,-639.00]
+,"weight": 2,"z": [997.00,2441.00,2441.00,997.00]
+,"ybottom": 64.00,"label": "Pont_nouvelleaurore_chinesia","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Pont_nouvelleaurore_chinesia<\/div><\/div>"}
+,"world_of_eagle_aurore_maison_baroriam": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [127.00,127.00,142.00,142.00]
+,"weight": 2,"z": [254.00,280.00,280.00,254.00]
+,"ybottom": 64.00,"label": "Aurore_maison_baroriam","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Aurore_maison_baroriam<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_arthuit_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-271.00,-271.00,-260.00,-260.00]
+,"weight": 2,"z": [412.00,781.00,781.00,412.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_arthuit_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_arthuit_2<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_arthuit_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-531.00,-531.00,-261.00,-261.00]
+,"weight": 2,"z": [772.00,781.00,781.00,772.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_arthuit_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_arthuit_1<\/div><\/div>"}
+,"world_of_eagle_route_chinesia_montana": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-649.00,-649.00,-640.00,-640.00]
+,"weight": 2,"z": [2441.00,2849.00,2849.00,2441.00]
+,"ybottom": 64.00,"label": "Route_chinesia_montana","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_chinesia_montana<\/div><\/div>"}
+,"world_of_eagle_ponts_montana_astana": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-282.00,-282.00,56.00,56.00]
+,"weight": 2,"z": [3030.00,3592.00,3592.00,3030.00]
+,"ybottom": 64.00,"label": "Ponts_montana_astana","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Ponts_montana_astana<\/div><\/div>"}
+,"world_of_eagle_aurore": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-75.00,-75.00,221.00,221.00]
+,"weight": 2,"z": [140.00,422.00,422.00,140.00]
+,"ybottom": 64.00,"label": "Aurore","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Aurore<\/div><\/div>"}
+,"world_of_eagle_kronenbar": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-909.00,-909.00,-772.00,-772.00]
+,"weight": 2,"z": [762.00,933.00,933.00,762.00]
+,"ybottom": 64.00,"label": "Kronenbar","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Kronenbar<\/div><\/div>"}
+,"world_of_eagle_pont_arthuit_aurore": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-151.00,-151.00,52.00,52.00]
+,"weight": 2,"z": [233.00,240.00,240.00,233.00]
+,"ybottom": 64.00,"label": "Pont_arthuit_aurore","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Pont_arthuit_aurore<\/div><\/div>"}
+,"world_of_eagle_campagne_neptune7": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1952.00,1952.00,2197.00,2197.00]
+,"weight": 2,"z": [4710.00,4955.00,4955.00,4710.00]
+,"ybottom": 64.00,"label": "Campagne_neptune7","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Campagne_neptune7<\/div><\/div>"}
+,"world_of_eagle_arthuit_espacenature": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-335.00,-335.00,-338.00,-338.00,-485.00,-485.00,-618.00,-618.00,-374.00,-374.00]
+,"weight": 2,"z": [131.00,102.00,102.00,19.00,19.00,-33.00,-33.00,167.00,167.00,131.00]
+,"ybottom": 64.00,"label": "Arthuit_espacenature","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_espacenature<\/div><\/div>"}
+,"world_of_eagle_arbre_worldedit_08_fevrier_2022": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [392.00,392.00,715.00,715.00]
+,"weight": 2,"z": [1378.00,1655.00,1655.00,1378.00]
+,"ybottom": 64.00,"label": "Arbre_worldedit_08_fevrier_2022","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arbre_worldedit_08_fevrier_2022<\/div><\/div>"}
+,"world_of_eagle_pnj_constant62": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2440.00,-2440.00,-2083.00,-2083.00]
+,"weight": 2,"z": [3320.00,3581.00,3581.00,3320.00]
+,"ybottom": 64.00,"label": "Pnj_constant62","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Pnj_constant62<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_apocalipse_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-352.00,-352.00,-496.00,-496.00,-336.00,-336.00,-160.00,-160.00,-32.00,-32.00]
+,"weight": 2,"z": [-112.00,-208.00,-208.00,32.00,32.00,128.00,128.00,176.00,176.00,-112.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_apocalipse_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_apocalipse_0<\/div><\/div>"}
+,"world_of_eagle_arthuit_1_ruedelagare": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-185.00,-185.00,-163.00,-163.00]
+,"weight": 2,"z": [137.00,158.00,158.00,137.00]
+,"ybottom": 64.00,"label": "Arthuit_1_ruedelagare","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_1_ruedelagare<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_sepina_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1408.00,-1408.00,-1376.00,-1376.00,-1360.00,-1360.00,-1344.00,-1344.00,-1328.00,-1328.00,-1312.00,-1312.00,-1264.00,-1264.00,-1232.00,-1232.00,-1248.00,-1248.00,-1232.00,-1232.00,-1216.00,-1216.00,-1200.00,-1200.00,-1184.00,-1184.00,-1168.00,-1168.00,-1184.00,-1184.00,-1168.00,-1168.00,-1152.00,-1152.00,-1136.00,-1136.00,-1120.00,-1120.00,-1152.00,-1152.00,-1200.00,-1200.00,-1232.00,-1232.00,-1264.00,-1264.00,-1280.00,-1280.00,-1296.00,-1296.00,-1280.00,-1280.00,-1296.00,-1296.00,-1328.00,-1328.00,-1360.00,-1360.00,-1376.00,-1376.00,-1424.00,-1424.00,-1456.00,-1456.00,-1472.00,-1472.00,-1488.00,-1488.00,-1440.00,-1440.00]
+,"weight": 2,"z": [1056.00,1104.00,1104.00,1120.00,1120.00,1136.00,1136.00,1152.00,1152.00,1216.00,1216.00,1232.00,1232.00,1216.00,1216.00,1168.00,1168.00,1152.00,1152.00,1104.00,1104.00,1088.00,1088.00,1072.00,1072.00,1056.00,1056.00,1008.00,1008.00,960.00,960.00,928.00,928.00,912.00,912.00,896.00,896.00,832.00,832.00,816.00,816.00,800.00,800.00,864.00,864.00,896.00,896.00,912.00,912.00,928.00,928.00,944.00,944.00,992.00,992.00,1008.00,1008.00,976.00,976.00,928.00,928.00,960.00,960.00,976.00,976.00,992.00,992.00,1040.00,1040.00,1056.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_sepina_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_sepina_0<\/div><\/div>"}
+,"world_of_eagle_avant-garde": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [232.00,232.00,936.00,936.00]
+,"weight": 2,"z": [-797.00,171.00,171.00,-797.00]
+,"ybottom": 64.00,"label": "Avant-garde","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Avant-garde<\/div><\/div>"}
+,"world_of_eagle_nouvelleaurore": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-597.00,-597.00,-211.00,-211.00]
+,"weight": 2,"z": [527.00,824.00,824.00,527.00]
+,"ybottom": 64.00,"label": "Nouvelleaurore","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Nouvelleaurore<\/div><\/div>"}
+,"world_of_eagle_arthuit_port": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-373.00,-373.00,-331.00,-331.00]
+,"weight": 2,"z": [132.00,418.00,418.00,132.00]
+,"ybottom": 64.00,"label": "Arthuit_port","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_port<\/div><\/div>"}
+,"world_of_eagle_premier_spawn": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-142.00,-142.00,25.00,25.00]
+,"weight": 2,"z": [-31.00,30.00,30.00,-31.00]
+,"ybottom": 64.00,"label": "Premier_spawn","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Premier_spawn<\/div><\/div>"}
+,"world_of_eagle_arthuit_eaglecraftmarket": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-286.00,-286.00,-263.00,-263.00]
+,"weight": 2,"z": [16.00,105.00,105.00,16.00]
+,"ybottom": 64.00,"label": "Arthuit_eaglecraftmarket","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_eaglecraftmarket<\/div><\/div>"}
+,"world_of_eagle_aurore_alentours": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-65.00,-65.00,238.00,238.00]
+,"weight": 2,"z": [159.00,614.00,614.00,159.00]
+,"ybottom": 64.00,"label": "Aurore_alentours","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Aurore_alentours<\/div><\/div>"}
+,"world_of_eagle_nouvelleaurore_chateau": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-585.00,-585.00,-464.00,-464.00]
+,"weight": 2,"z": [600.00,721.00,721.00,600.00]
+,"ybottom": 64.00,"label": "Nouvelleaurore_chateau","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Nouvelleaurore_chateau<\/div><\/div>"}
+,"world_of_eagle_route_samothcity_arthuit_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-380.00,-380.00,-369.00,-369.00]
+,"weight": 2,"z": [102.00,177.00,177.00,102.00]
+,"ybottom": 64.00,"label": "Route_samothcity_arthuit_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_samothcity_arthuit_2<\/div><\/div>"}
+,"world_of_eagle_eternia_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-4026.00,-4026.00,-4015.00,-4015.00]
+,"weight": 2,"z": [-27.00,-16.00,-16.00,-27.00]
+,"ybottom": 64.00,"label": "Eternia_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Eternia_stationair<\/div><\/div>"}
+,"world_of_eagle_route_samothcity_arthuit_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-380.00,-380.00,-261.00,-261.00]
+,"weight": 2,"z": [102.00,113.00,113.00,102.00]
+,"ybottom": 64.00,"label": "Route_samothcity_arthuit_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_samothcity_arthuit_1<\/div><\/div>"}
+,"world_of_eagle_zonenature_9": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1884.00,1884.00,2233.00,2233.00]
+,"weight": 2,"z": [536.00,909.00,909.00,536.00]
+,"ybottom": 64.00,"label": "Zonenature_9","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_9<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_kenson_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2640.00,-2640.00,-2656.00,-2656.00,-2496.00,-2496.00,-2480.00,-2480.00,-2464.00,-2464.00,-2448.00,-2448.00,-2496.00,-2496.00,-2512.00,-2512.00,-2624.00,-2624.00]
+,"weight": 2,"z": [272.00,432.00,432.00,496.00,496.00,416.00,416.00,352.00,352.00,336.00,336.00,304.00,304.00,272.00,272.00,224.00,224.00,272.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_kenson_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_kenson_0<\/div><\/div>"}
+,"world_of_eagle_zonenature_8": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-860.00,-860.00,-819.00,-819.00]
+,"weight": 2,"z": [896.00,937.00,937.00,896.00]
+,"ybottom": 64.00,"label": "Zonenature_8","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_8<\/div><\/div>"}
+,"world_of_eagle_zonenature_7": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [370.00,370.00,456.00,456.00]
+,"weight": 2,"z": [590.00,674.00,674.00,590.00]
+,"ybottom": 64.00,"label": "Zonenature_7","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_7<\/div><\/div>"}
+,"world_of_eagle_acces_coffres_joueurs": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1301.00,1301.00,1303.00,1303.00]
+,"weight": 2,"z": [-1572.00,-1567.00,-1567.00,-1572.00]
+,"ybottom": 64.00,"label": "Acces_coffres_joueurs","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Acces_coffres_joueurs<\/div><\/div>"}
+,"world_of_eagle_route_axorius_samothcity_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-622.00,-622.00,-611.00,-611.00]
+,"weight": 2,"z": [168.00,345.00,345.00,168.00]
+,"ybottom": 64.00,"label": "Route_axorius_samothcity_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_axorius_samothcity_2<\/div><\/div>"}
+,"world_of_eagle_route_axorius_samothcity_3": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-616.00,-616.00,-369.00,-369.00]
+,"weight": 2,"z": [166.00,177.00,177.00,166.00]
+,"ybottom": 64.00,"label": "Route_axorius_samothcity_3","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_axorius_samothcity_3<\/div><\/div>"}
+,"world_of_eagle_route_axorius_villa_galla_romana": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-950.00,-950.00,-837.00,-837.00]
+,"weight": 2,"z": [473.00,482.00,482.00,473.00]
+,"ybottom": 64.00,"label": "Route_axorius_villa_galla_romana","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_axorius_villa_galla_romana<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_samothcity_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-608.00,-608.00,-416.00,-416.00,-464.00,-464.00]
+,"weight": 2,"z": [176.00,368.00,368.00,208.00,208.00,176.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_samothcity_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_samothcity_0<\/div><\/div>"}
+,"world_of_eagle_village_kelyan88": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [227.00,227.00,478.00,478.00]
+,"weight": 2,"z": [3276.00,3553.00,3553.00,3276.00]
+,"ybottom": 64.00,"label": "Village_kelyan88","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Village_kelyan88<\/div><\/div>"}
+,"world_of_eagle_base_mracesnipers": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1143.00,-1143.00,-1041.00,-1041.00]
+,"weight": 2,"z": [-102.00,-1.00,-1.00,-102.00]
+,"ybottom": 64.00,"label": "Base_mracesnipers","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Base_mracesnipers<\/div><\/div>"}
+,"world_of_eagle_acces_coffres_usine_fer": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1295.00,1295.00,1298.00,1298.00]
+,"weight": 2,"z": [-1579.00,-1577.00,-1577.00,-1579.00]
+,"ybottom": 64.00,"label": "Acces_coffres_usine_fer","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Acces_coffres_usine_fer<\/div><\/div>"}
+,"world_of_eagle_arthuit_stade": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-362.00,-362.00,-141.00,-141.00]
+,"weight": 2,"z": [-351.00,-91.00,-91.00,-351.00]
+,"ybottom": 64.00,"label": "Arthuit_stade","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_stade<\/div><\/div>"}
+,"world_of_eagle_pont_kenson_astana": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2316.00,-2316.00,-2209.00,-2209.00]
+,"weight": 2,"z": [1635.00,1989.00,1989.00,1635.00]
+,"ybottom": 64.00,"label": "Pont_kenson_astana","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Pont_kenson_astana<\/div><\/div>"}
+,"world_of_eagle_arthuit_bunkers": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-334.00,-334.00,-159.00,-159.00]
+,"weight": 2,"z": [133.00,416.00,416.00,133.00]
+,"ybottom": 64.00,"label": "Arthuit_bunkers","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_bunkers<\/div><\/div>"}
+,"world_of_eagle_chateau_mracesnipers": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1137.00,-1137.00,-1036.00,-1036.00]
+,"weight": 2,"z": [-86.00,15.00,15.00,-86.00]
+,"ybottom": 64.00,"label": "Chateau_mracesnipers","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Chateau_mracesnipers<\/div><\/div>"}
+,"world_of_eagle_ferme_sailoriae": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1199.00,1199.00,1400.00,1400.00]
+,"weight": 2,"z": [-1673.00,-1472.00,-1472.00,-1673.00]
+,"ybottom": 64.00,"label": "Ferme_sailoriae","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Ferme_sailoriae<\/div><\/div>"}
+,"world_of_eagle_route_axorius_samothcity_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-839.00,-839.00,-611.00,-611.00]
+,"weight": 2,"z": [334.00,345.00,345.00,334.00]
+,"ybottom": 64.00,"label": "Route_axorius_samothcity_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_axorius_samothcity_1<\/div><\/div>"}
+,"world_of_eagle_arthuit_chateau": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-424.00,-424.00,-364.00,-364.00]
+,"weight": 2,"z": [217.00,423.00,423.00,217.00]
+,"ybottom": 64.00,"label": "Arthuit_chateau","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_chateau<\/div><\/div>"}
+,"world_of_eagle_chinesia": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1138.00,-1138.00,-587.00,-587.00]
+,"weight": 2,"z": [2273.00,2811.00,2811.00,2273.00]
+,"ybottom": 64.00,"label": "Chinesia","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Chinesia<\/div><\/div>"}
+,"world_of_eagle_axorius_stationair_centreville": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-736.00,-736.00,-728.00,-728.00]
+,"weight": 2,"z": [674.00,682.00,682.00,674.00]
+,"ybottom": 64.00,"label": "Axorius_stationair_centreville","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Axorius_stationair_centreville<\/div><\/div>"}
+,"world_of_eagle_samothcity": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-623.00,-623.00,-420.00,-420.00]
+,"weight": 2,"z": [168.00,377.00,377.00,168.00]
+,"ybottom": 64.00,"label": "Samothcity","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Samothcity<\/div><\/div>"}
+,"world_of_eagle_route_nouvelleaurore_chinesia": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-649.00,-649.00,-640.00,-640.00]
+,"weight": 2,"z": [781.00,997.00,997.00,781.00]
+,"ybottom": 64.00,"label": "Route_nouvelleaurore_chinesia","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_nouvelleaurore_chinesia<\/div><\/div>"}
+,"world_of_eagle_montagnes_du_swag": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-885.00,-885.00,-652.00,-652.00]
+,"weight": 2,"z": [148.00,377.00,377.00,148.00]
+,"ybottom": 64.00,"label": "Montagnes_du_swag","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Montagnes_du_swag<\/div><\/div>"}
+,"world_of_eagle_axorius": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-830.00,-830.00,-607.00,-607.00]
+,"weight": 2,"z": [336.00,755.00,755.00,336.00]
+,"ybottom": 64.00,"label": "Axorius","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Axorius<\/div><\/div>"}
+,"world_of_eagle_littlecraft_gare": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-344.00,-344.00,-334.00,-334.00]
+,"weight": 2,"z": [103.00,134.00,134.00,103.00]
+,"ybottom": 64.00,"label": "Littlecraft_gare","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Littlecraft_gare<\/div><\/div>"}
+,"world_of_eagle_chinesia_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-883.00,-883.00,-861.00,-861.00]
+,"weight": 2,"z": [2499.00,2521.00,2521.00,2499.00]
+,"ybottom": 64.00,"label": "Chinesia_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Chinesia_stationair<\/div><\/div>"}
+,"world_of_eagle_axorius_taverne_xdiaman": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-774.00,-774.00,-754.00,-754.00]
+,"weight": 2,"z": [431.00,452.00,452.00,431.00]
+,"ybottom": 64.00,"label": "Axorius_taverne_xdiaman","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Axorius_taverne_xdiaman<\/div><\/div>"}
+,"world_of_eagle_arthuit_general_ville": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-373.00,-373.00,-420.00,-420.00,-294.00,-294.00,-275.00,-275.00,-159.00,-159.00,-158.00,-157.00,-156.00,-156.00,-157.00,-158.00,-159.00,-160.00,-160.00,-159.00,-158.00,-157.00,-156.00,-156.00,-157.00,-158.00,-159.00,-159.00,-190.00,-190.00,-209.00,-209.00,-233.00,-234.00,-235.00,-236.00,-240.00,-241.00,-242.00,-243.00,-244.00,-260.00,-261.00,-262.00,-263.00,-264.00,-268.00,-269.00,-270.00,-271.00,-373.00]
+,"weight": 2,"z": [132.00,220.00,220.00,417.00,417.00,423.00,423.00,417.00,417.00,255.00,254.00,253.00,252.00,248.00,247.00,246.00,245.00,244.00,228.00,227.00,226.00,225.00,224.00,220.00,219.00,218.00,217.00,132.00,132.00,125.00,125.00,132.00,132.00,131.00,130.00,129.00,129.00,130.00,131.00,132.00,133.00,133.00,132.00,131.00,130.00,129.00,129.00,130.00,131.00,132.00,132.00]
+,"ybottom": 64.00,"label": "Arthuit_general_ville","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_general_ville<\/div><\/div>"}
+,"world_of_eagle_arthuit_dac": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-207.00,-207.00,-161.00,-161.00]
+,"weight": 2,"z": [239.00,270.00,270.00,239.00]
+,"ybottom": 64.00,"label": "Arthuit_dac","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_dac<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_astana_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1872.00,-1888.00,-1888.00,-1904.00,-1904.00,-1920.00,-1920.00,-1936.00,-1936.00,-2016.00,-2016.00,-2048.00,-2048.00,-2064.00,-2064.00,-2080.00,-2080.00,-2096.00,-2096.00,-2112.00,-2112.00,-2128.00,-2128.00,-2160.00,-2160.00,-2144.00,-2144.00,-2080.00,-2080.00,-2032.00,-2032.00,-2016.00,-2016.00,-1920.00,-1920.00,-1904.00,-1904.00,-1888.00,-1888.00,-1872.00,-1872.00,-1856.00,-1856.00,-1872.00]
+,"weight": 2,"z": [2992.00,2992.00,2912.00,2912.00,2864.00,2864.00,2848.00,2848.00,2832.00,2832.00,2848.00,2848.00,2864.00,2864.00,2880.00,2880.00,2928.00,2928.00,2944.00,2944.00,2976.00,2976.00,2992.00,2992.00,3088.00,3088.00,3104.00,3104.00,3088.00,3088.00,3120.00,3120.00,3152.00,3152.00,3136.00,3136.00,3120.00,3120.00,3104.00,3104.00,3088.00,3088.00,3008.00,3008.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_astana_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_astana_0<\/div><\/div>"}
+,"world_of_eagle_zonenature_12": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3004.00,-3004.00,-2803.00,-2803.00]
+,"weight": 2,"z": [243.00,444.00,444.00,243.00]
+,"ybottom": 64.00,"label": "Zonenature_12","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_12<\/div><\/div>"}
+,"world_of_eagle_zonenature_11": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-949.00,-949.00,-851.00,-851.00]
+,"weight": 2,"z": [363.00,594.00,594.00,363.00]
+,"ybottom": 64.00,"label": "Zonenature_11","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_11<\/div><\/div>"}
+,"world_of_eagle_zonenature_10": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-582.00,-582.00,-481.00,-481.00]
+,"weight": 2,"z": [411.00,512.00,512.00,411.00]
+,"ybottom": 64.00,"label": "Zonenature_10","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_10<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_chinesia_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-704.00,-656.00,-656.00,-640.00,-640.00,-704.00,-704.00,-736.00,-736.00,-768.00,-768.00,-816.00,-816.00,-880.00,-880.00,-912.00,-912.00,-992.00,-992.00,-960.00,-960.00,-944.00,-944.00,-928.00,-928.00,-880.00,-880.00,-864.00,-864.00,-848.00,-848.00,-784.00,-784.00,-768.00,-768.00,-752.00,-752.00,-720.00,-720.00,-704.00]
+,"weight": 2,"z": [2480.00,2480.00,2464.00,2464.00,2416.00,2416.00,2448.00,2448.00,2432.00,2432.00,2384.00,2384.00,2416.00,2416.00,2432.00,2432.00,2448.00,2448.00,2544.00,2544.00,2576.00,2576.00,2608.00,2608.00,2624.00,2624.00,2640.00,2640.00,2656.00,2656.00,2672.00,2672.00,2656.00,2656.00,2640.00,2640.00,2624.00,2624.00,2528.00,2528.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_chinesia_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_chinesia_0<\/div><\/div>"}
+,"world_of_eagle_villagallaromane_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1006.00,-1006.00,-994.00,-994.00]
+,"weight": 2,"z": [567.00,578.00,578.00,567.00]
+,"ybottom": 64.00,"label": "Villagallaromane_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Villagallaromane_stationair<\/div><\/div>"}
+,"world_of_eagle_route_axorius": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-839.00,-839.00,-828.00,-828.00]
+,"weight": 2,"z": [334.00,764.00,764.00,334.00]
+,"ybottom": 64.00,"label": "Route_axorius","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Route_axorius<\/div><\/div>"}
+,"world_of_eagle_samothcity_antenne": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-547.00,-547.00,-539.00,-539.00]
+,"weight": 2,"z": [290.00,297.00,297.00,290.00]
+,"ybottom": 64.00,"label": "Samothcity_antenne","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Samothcity_antenne<\/div><\/div>"}
+,"world_of_eagle_zonenature_19": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-773.00,-773.00,-627.00,-627.00]
+,"weight": 2,"z": [-549.00,-415.00,-415.00,-549.00]
+,"ybottom": 64.00,"label": "Zonenature_19","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_19<\/div><\/div>"}
+,"world_of_eagle_campagne_calimero75": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1118.00,-1118.00,-961.00,-961.00]
+,"weight": 2,"z": [729.00,908.00,908.00,729.00]
+,"ybottom": 64.00,"label": "Campagne_calimero75","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Campagne_calimero75<\/div><\/div>"}
+,"world_of_eagle_zonenature_18": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-48.00,-48.00,95.00,95.00]
+,"weight": 2,"z": [512.00,644.00,644.00,512.00]
+,"ybottom": 64.00,"label": "Zonenature_18","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_18<\/div><\/div>"}
+,"world_of_eagle_zonenature_17": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3362.00,-3362.00,-3261.00,-3261.00]
+,"weight": 2,"z": [-190.00,-89.00,-89.00,-190.00]
+,"ybottom": 64.00,"label": "Zonenature_17","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_17<\/div><\/div>"}
+,"world_of_eagle_zonenature_16": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-503.00,-503.00,-345.00,-345.00]
+,"weight": 2,"z": [-903.00,-745.00,-745.00,-903.00]
+,"ybottom": 64.00,"label": "Zonenature_16","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_16<\/div><\/div>"}
+,"world_of_eagle_zonenature_15": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [153.00,153.00,311.00,311.00]
+,"weight": 2,"z": [-823.00,-665.00,-665.00,-823.00]
+,"ybottom": 64.00,"label": "Zonenature_15","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_15<\/div><\/div>"}
+,"world_of_eagle_zonenature_14": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3288.00,-3288.00,-3187.00,-3187.00]
+,"weight": 2,"z": [120.00,221.00,221.00,120.00]
+,"ybottom": 64.00,"label": "Zonenature_14","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_14<\/div><\/div>"}
+,"world_of_eagle_zonenature_13": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3917.00,-3917.00,-3716.00,-3716.00]
+,"weight": 2,"z": [120.00,321.00,321.00,120.00]
+,"ybottom": 64.00,"label": "Zonenature_13","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Zonenature_13<\/div><\/div>"}
+,"world_of_eagle_nouvelleaurore_stationair": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-429.00,-429.00,-408.00,-408.00]
+,"weight": 2,"z": [713.00,734.00,734.00,713.00]
+,"ybottom": 64.00,"label": "Nouvelleaurore_stationair","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Nouvelleaurore_stationair<\/div><\/div>"}
+,"world_of_eagle_arthuit_porte_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-271.00,-271.00,-232.00,-232.00]
+,"weight": 2,"z": [129.00,140.00,140.00,129.00]
+,"ybottom": 64.00,"label": "Arthuit_porte_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_porte_1<\/div><\/div>"}
+,"world_of_eagle_arthuit_porte_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-262.00,-262.00,-241.00,-241.00]
+,"weight": 2,"z": [125.00,129.00,129.00,125.00]
+,"ybottom": 64.00,"label": "Arthuit_porte_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arthuit_porte_2<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_treetown_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-272.00,-272.00,-112.00,-112.00,-96.00,-96.00,-208.00,-208.00,-320.00,-320.00,-432.00,-432.00,-480.00,-480.00,-384.00,-384.00,-304.00,-304.00]
+,"weight": 2,"z": [1632.00,1584.00,1584.00,1552.00,1552.00,1472.00,1472.00,1456.00,1456.00,1472.00,1472.00,1504.00,1504.00,1568.00,1568.00,1584.00,1584.00,1632.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_treetown_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_treetown_0<\/div><\/div>"}
+,"world_of_eagle_towns_autogenerated_village_0": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-496.00,-496.00,-480.00,-480.00,-464.00,-464.00,-448.00,-448.00,-464.00,-464.00,-496.00,-496.00,-512.00,-512.00,-560.00,-560.00,-576.00,-576.00,-592.00,-592.00,-608.00,-608.00,-624.00,-624.00,-640.00,-640.00,-624.00,-624.00,-608.00,-608.00]
+,"weight": 2,"z": [4096.00,4080.00,4080.00,4016.00,4016.00,4000.00,4000.00,3936.00,3936.00,3920.00,3920.00,3904.00,3904.00,3888.00,3888.00,3904.00,3904.00,3920.00,3920.00,3952.00,3952.00,3968.00,3968.00,3984.00,3984.00,4064.00,4064.00,4080.00,4080.00,4096.00]
+,"ybottom": 64.00,"label": "Towns_autogenerated_village_0","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Towns_autogenerated_village_0<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {"gare-axorius": {"markup": false,"x": -652.00,"icon": "tower","y": 85.00,"dim": "16x16","z": 703.00,"label": "Gare de Axorius"}
+,"gare-vgr": {"markup": false,"x": -1000.00,"icon": "tower","y": 65.00,"dim": "16x16","z": 572.00,"label": "Gare de VillaGallaRomane"}
+,"gare-nouaur": {"markup": false,"x": -420.00,"icon": "tower","y": 121.00,"dim": "16x16","z": 721.00,"label": "Gare de Nouvelle-Aurore"}
+,"gare-astana": {"markup": false,"x": -2024.00,"icon": "tower","y": 71.00,"dim": "16x16","z": 2990.00,"label": "Gare de Astana"}
+,"gare-chinesia": {"markup": false,"x": -876.00,"icon": "tower","y": 69.00,"dim": "16x16","z": 2517.00,"label": "Gare de Chin\u00E9sia"}
+,"gare-kenson": {"markup": false,"x": -2482.00,"icon": "tower","y": 93.00,"dim": "16x16","z": 336.00,"label": "Gare de Kenson"}
+,"gare-arthuit": {"markup": false,"x": -285.00,"icon": "tower","y": 81.00,"dim": "16x16","z": 412.00,"label": "Gare de Arthuit"}
+,"gare-eternia": {"markup": false,"x": -4021.00,"icon": "tower","y": 78.00,"dim": "16x16","z": -21.00,"label": "Gare de Eternia"}
+,"gare-sepina": {"markup": false,"x": -1286.00,"icon": "tower","y": 79.00,"dim": "16x16","z": 1137.00,"label": "Gare de S\u00E9pina"}
+}
+,"lines": {"art-nouaur": {"color": "#FF55FF","markup": false,"x": [-288.00,-300.00,-300.00,-310.00,-320.00,-327.00,-332.00,-339.00,-348.00,-356.00,-364.00,-372.00,-382.00,-389.00,-399.00,-411.00,-421.00,-426.00,-429.00,-426.00,-421.00,-416.00,-415.00,-418.00,-421.00]
+,"y": [80.00,82.00,82.00,84.00,87.00,90.00,93.00,99.00,107.00,113.00,118.00,122.00,125.00,127.00,128.00,128.00,128.00,127.00,126.00,125.00,124.00,123.00,122.00,121.00,120.00]
+,"weight": 3,"z": [441.00,483.00,514.00,552.00,587.00,611.00,627.00,648.00,673.00,691.00,704.00,717.00,725.00,731.00,736.00,739.00,736.00,731.00,721.00,714.00,712.00,715.00,721.00,724.00,726.00]
+,"label": "Arthuit vers Nouvelle-Aurore","opacity": 0.80}
+,"chi-ast": {"color": "#55FFFF","markup": false,"x": [-894.00,-921.00,-945.00,-952.00,-958.00,-964.00,-974.00,-985.00,-1022.00,-1055.00,-1079.00,-1115.00,-1149.00,-1181.00,-1221.00,-1267.00,-1305.00,-1336.00,-1369.00,-1395.00,-1429.00,-1468.00,-1505.00,-1535.00,-1588.00,-1645.00,-1693.00,-1725.00,-1764.00,-1832.00,-1905.00,-1933.00,-1950.00,-1971.00,-1987.00,-1998.00,-2012.00,-2026.00,-2034.00,-2040.00,-2047.00,-2045.00,-2041.00,-2032.00,-2027.00,-2023.00,-2018.00,-2013.00]
+,"y": [73.00,78.00,81.00,81.00,81.00,82.00,85.00,89.00,92.00,95.00,98.00,102.00,105.00,107.00,107.00,107.00,107.00,109.00,113.00,116.00,121.00,126.00,126.00,126.00,126.00,126.00,126.00,126.00,126.00,126.00,126.00,124.00,121.00,116.00,111.00,106.00,100.00,93.00,89.00,85.00,81.00,79.00,78.00,76.00,74.00,73.00,71.00,69.00]
+,"weight": 3,"z": [2519.00,2518.00,2518.00,2520.00,2525.00,2531.00,2539.00,2546.00,2561.00,2574.00,2586.00,2605.00,2622.00,2640.00,2657.00,2666.00,2671.00,2674.00,2675.00,2677.00,2678.00,2679.00,2680.00,2687.00,2705.00,2727.00,2749.00,2764.00,2780.00,2806.00,2838.00,2856.00,2871.00,2890.00,2904.00,2918.00,2939.00,2956.00,2967.00,2977.00,2987.00,2995.00,2997.00,2997.00,2993.00,2989.00,2986.00,2983.00]
+,"label": "Chinesia vers Astana","opacity": 0.80}
+,"sep-axo": {"color": "#FF0000","markup": false,"x": [-1278.00,-1267.00,-1242.00,-1198.00,-1135.00,-1045.00,-991.00,-938.00,-876.00,-817.00,-754.00,-716.00,-678.00,-661.00,-654.00,-648.00]
+,"y": [82.00,85.00,87.00,89.00,91.00,91.00,94.00,96.00,96.00,99.00,95.00,90.00,87.00,87.00,86.00,86.00]
+,"weight": 3,"z": [1128.00,1114.00,1084.00,1057.00,1023.00,970.00,933.00,880.00,834.00,799.00,763.00,741.00,719.00,709.00,704.00,699.00]
+,"label": "Sepina vers Axorius","opacity": 0.80}
+,"chi-axo": {"color": "#FF0000","markup": false,"x": [-849.00,-830.00,-807.00,-790.00,-773.00,-756.00,-737.00,-698.00,-673.00,-647.00,-618.00,-595.00,-569.00,-558.00,-566.00,-584.00,-611.00,-626.00,-634.00,-640.00,-655.00,-673.00,-694.00,-722.00,-738.00,-745.00,-754.00,-740.00,-726.00,-707.00,-696.00,-684.00,-671.00,-662.00,-654.00,-649.00]
+,"y": [82.00,90.00,97.00,101.00,105.00,109.00,110.00,111.00,111.00,103.00,96.00,92.00,92.00,92.00,88.00,81.00,73.00,69.00,69.00,69.00,69.00,73.00,81.00,88.00,92.00,96.00,96.00,96.00,96.00,93.00,92.00,90.00,88.00,87.00,85.00,85.00]
+,"weight": 3,"z": [2520.00,2518.00,2509.00,2497.00,2479.00,2449.00,2407.00,2316.00,2257.00,2195.00,2115.00,1985.00,1792.00,1661.00,1557.00,1478.00,1391.00,1296.00,1285.00,1280.00,1268.00,1239.00,1193.00,1128.00,1076.00,1015.00,919.00,824.00,772.00,728.00,713.00,703.00,697.00,698.00,702.00,706.00]
+,"label": "Chinesia vers Axorius","opacity": 0.80}
+,"nouaur-axo": {"color": "#AA0000","markup": false,"x": [-410.00,-404.00,-404.00,-412.00,-421.00,-432.00,-443.00,-454.00,-463.00,-470.00,-481.00,-489.00,-490.00,-484.00,-476.00,-471.00,-467.00,-463.00,-462.00,-464.00,-465.00,-470.00,-478.00,-492.00,-506.00,-518.00,-527.00,-547.00,-567.00,-585.00,-600.00,-612.00,-627.00,-638.00,-647.00,-661.00,-678.00,-683.00,-684.00,-680.00,-672.00,-664.00,-653.00,-649.00,-650.00,-652.00]
+,"y": [119.00,117.00,115.00,113.00,112.00,110.00,108.00,106.00,104.00,102.00,98.00,93.00,89.00,85.00,81.00,81.00,84.00,87.00,88.00,87.00,86.00,83.00,78.00,74.00,71.00,71.00,73.00,76.00,79.00,79.00,79.00,79.00,78.00,76.00,74.00,74.00,77.00,79.00,80.00,84.00,90.00,90.00,89.00,87.00,86.00,84.00]
+,"weight": 3,"z": [738.00,754.00,769.00,782.00,790.00,794.00,794.00,791.00,784.00,778.00,765.00,750.00,735.00,720.00,706.00,687.00,670.00,647.00,625.00,606.00,590.00,572.00,553.00,546.00,537.00,523.00,511.00,497.00,491.00,487.00,488.00,492.00,500.00,509.00,515.00,519.00,537.00,561.00,583.00,605.00,642.00,660.00,675.00,685.00,696.00,703.00]
+,"label": "Nouvelle-Aurore vers Axorius","opacity": 0.80}
+,"art-axo": {"color": "#55FF55","markup": false,"x": [-313.00,-341.00,-363.00,-390.00,-416.00,-439.00,-455.00,-468.00,-475.00,-484.00,-490.00,-499.00,-507.00,-513.00,-518.00,-530.00,-544.00,-553.00,-565.00,-574.00,-581.00,-596.00,-608.00,-626.00,-641.00,-651.00,-652.00]
+,"y": [80.00,81.00,82.00,83.00,85.00,86.00,86.00,84.00,80.00,75.00,71.00,67.00,65.00,64.00,63.00,65.00,67.00,70.00,75.00,77.00,80.00,83.00,85.00,85.00,86.00,86.00,84.00]
+,"weight": 3,"z": [424.00,439.00,449.00,459.00,466.00,476.00,485.00,498.00,507.00,515.00,519.00,525.00,538.00,549.00,557.00,569.00,581.00,593.00,609.00,621.00,633.00,646.00,662.00,680.00,691.00,699.00,703.00]
+,"label": "Arthuit vers Axorius","opacity": 0.80}
+,"vgr-ete": {"color": "#AA00AA","markup": false,"x": [-995.00,-983.00,-969.00,-961.00,-956.00,-953.00,-952.00,-955.00,-961.00,-967.00,-975.00,-988.00,-1007.00,-1029.00,-1087.00,-1154.00,-1236.00,-1308.00,-1376.00,-1440.00,-1501.00,-1562.00,-1619.00,-1684.00,-1743.00,-1810.00,-1860.00,-1904.00,-1953.00,-1995.00,-2050.00,-2102.00,-2161.00,-2219.00,-2284.00,-2317.00,-2363.00,-2418.00,-2450.00,-2504.00,-2558.00,-2609.00,-2645.00,-2680.00,-2730.00,-2786.00,-2840.00,-2895.00,-2947.00,-2995.00,-3035.00,-3081.00,-3135.00,-3195.00,-3272.00,-3285.00,-3292.00,-3313.00,-3328.00,-3332.00,-3331.00,-3326.00,-3326.00,-3330.00,-3339.00,-3353.00,-3369.00,-3400.00,-3442.00,-3484.00,-3533.00,-3564.00,-3588.00,-3612.00,-3639.00,-3672.00,-3713.00,-3764.00,-3809.00,-3836.00,-3863.00,-3896.00,-3930.00,-3940.00,-3952.00,-3963.00,-3973.00,-3981.00,-3990.00,-3999.00,-4008.00,-4018.00,-4026.00,-4033.00,-4039.00,-4042.00,-4044.00,-4041.00,-4033.00,-4022.00,-4018.00,-4018.00,-4021.00,-4021.00,-4021.00,-4021.00]
+,"y": [64.00,68.00,72.00,75.00,78.00,81.00,84.00,87.00,90.00,93.00,97.00,102.00,106.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,109.00,115.00,115.00,115.00,112.00,112.00,112.00,112.00,112.00,117.00,117.00,117.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,118.00,117.00,115.00,112.00,109.00,106.00,102.00,100.00,98.00,96.00,95.00,93.00,90.00,88.00,85.00,83.00,82.00,81.00,80.00,77.00,77.00]
+,"weight": 3,"z": [572.00,572.00,574.00,580.00,590.00,600.00,609.00,617.00,626.00,634.00,639.00,645.00,648.00,652.00,656.00,665.00,684.00,698.00,709.00,718.00,726.00,734.00,740.00,745.00,747.00,749.00,739.00,721.00,701.00,683.00,662.00,642.00,614.00,587.00,556.00,540.00,518.00,491.00,476.00,449.00,424.00,404.00,395.00,371.00,347.00,329.00,314.00,311.00,307.00,299.00,289.00,263.00,230.00,201.00,188.00,184.00,177.00,141.00,103.00,88.00,74.00,41.00,27.00,18.00,11.00,-1.00,-6.00,-8.00,-10.00,-12.00,-15.00,-27.00,-38.00,-59.00,-77.00,-90.00,-91.00,-87.00,-87.00,-106.00,-127.00,-146.00,-143.00,-140.00,-129.00,-117.00,-106.00,-98.00,-89.00,-79.00,-70.00,-60.00,-51.00,-43.00,-32.00,-20.00,-8.00,-1.00,6.00,7.00,1.00,-4.00,-8.00,-12.00,-16.00,-22.00]
+,"label": "VillaGallaRomane vers Eternia","opacity": 0.80}
+,"axo-nouaur": {"color": "#FF0000","markup": false,"x": [-629.00,-607.00,-581.00,-554.00,-523.00,-491.00,-459.00,-428.00,-421.00,-414.00,-411.00,-409.00,-410.00,-412.00,-417.00]
+,"y": [88.00,94.00,100.00,106.00,112.00,118.00,121.00,124.00,124.00,124.00,124.00,124.00,123.00,122.00,121.00]
+,"weight": 3,"z": [718.00,730.00,742.00,752.00,758.00,761.00,762.00,758.00,755.00,751.00,745.00,739.00,732.00,726.00,721.00]
+,"label": "Axorius vers Nouvelle-Aurore","opacity": 0.80}
+,"vgr-ken": {"color": "#00AA00","markup": false,"x": [-1003.00,-1007.00,-1013.00,-1020.00,-1026.00,-1033.00,-1046.00,-1059.00,-1082.00,-1110.00,-1134.00,-1156.00,-1175.00,-1218.00,-1275.00,-1336.00,-1410.00,-1478.00,-1547.00,-1612.00,-1678.00,-1749.00,-1823.00,-1895.00,-1975.00,-2049.00,-2117.00,-2208.00,-2293.00,-2385.00,-2449.00,-2477.00,-2487.00,-2496.00,-2505.00,-2511.00,-2523.00,-2529.00,-2531.00,-2524.00,-2513.00,-2507.00,-2501.00,-2494.00,-2489.00,-2487.00,-2486.00,-2485.00,-2484.00]
+,"y": [66.00,69.00,73.00,77.00,81.00,85.00,91.00,95.00,101.00,105.00,108.00,110.00,112.00,117.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,121.00,119.00,115.00,113.00,111.00,108.00,106.00,102.00,99.00,97.00,97.00,97.00,97.00,97.00,97.00,96.00,95.00,94.00,93.00,92.00]
+,"weight": 3,"z": [579.00,588.00,599.00,611.00,619.00,627.00,635.00,640.00,644.00,645.00,643.00,637.00,631.00,617.00,597.00,574.00,550.00,537.00,532.00,531.00,537.00,550.00,574.00,598.00,595.00,588.00,560.00,517.00,480.00,452.00,432.00,416.00,408.00,398.00,385.00,377.00,360.00,343.00,325.00,314.00,311.00,312.00,316.00,320.00,327.00,332.00,336.00,340.00,345.00]
+,"label": "VillaGallaRomane vers Kenson","opacity": 0.80}
+,"axo-vgr": {"color": "#FFFF55","markup": false,"x": [-653.00,-659.00,-674.00,-693.00,-707.00,-727.00,-744.00,-769.00,-788.00,-788.00,-798.00,-819.00,-842.00,-857.00,-872.00,-889.00,-901.00,-915.00,-929.00,-942.00,-955.00,-969.00,-981.00,-989.00,-1000.00]
+,"y": [88.00,88.00,89.00,90.00,91.00,93.00,95.00,98.00,99.00,99.00,99.00,100.00,100.00,100.00,100.00,100.00,99.00,98.00,96.00,93.00,88.00,81.00,74.00,69.00,64.00]
+,"weight": 3,"z": [685.00,666.00,645.00,624.00,609.00,597.00,590.00,589.00,592.00,592.00,594.00,599.00,600.00,597.00,593.00,588.00,584.00,580.00,577.00,574.00,572.00,572.00,572.00,572.00,572.00]
+,"label": "Axorius vers VillaGallaRomane","opacity": 0.80}
+,"axo-art": {"color": "#FF0000","markup": false,"x": [-634.00,-610.00,-555.00,-501.00,-476.00,-447.00,-425.00,-399.00,-371.00,-351.00,-328.00,-317.00,-309.00,-307.00,-303.00,-301.00,-297.00,-295.00]
+,"y": [90.00,98.00,101.00,101.00,101.00,101.00,101.00,98.00,94.00,90.00,86.00,86.00,85.00,85.00,84.00,82.00,83.00,82.00]
+,"weight": 3,"z": [688.00,663.00,622.00,596.00,587.00,570.00,553.00,532.00,505.00,488.00,468.00,459.00,451.00,445.00,434.00,424.00,416.00,411.00]
+,"label": "Axorius vers Arthuit","opacity": 0.80}
+,"axo-chi": {"color": "#FFAA00","markup": false,"x": [-652.00,-652.00,-653.00,-658.00,-667.00,-672.00,-679.00,-685.00,-688.00,-690.00,-691.00,-679.00,-668.00,-659.00,-647.00,-635.00,-627.00,-619.00,-612.00,-608.00,-608.00,-609.00,-613.00,-620.00,-627.00,-632.00,-633.00,-634.00,-639.00,-647.00,-658.00,-666.00,-681.00,-692.00,-700.00,-715.00,-728.00,-740.00,-755.00,-751.00,-747.00,-747.00,-745.00,-743.00,-738.00,-734.00,-730.00,-724.00,-723.00,-724.00,-727.00,-736.00,-744.00,-751.00,-760.00,-767.00,-786.00,-800.00,-812.00,-825.00,-835.00,-845.00,-851.00,-858.00,-866.00,-872.00,-878.00,-884.00]
+,"y": [86.00,90.00,95.00,100.00,105.00,107.00,108.00,108.00,108.00,108.00,108.00,108.00,108.00,108.00,108.00,108.00,107.00,105.00,102.00,99.00,97.00,95.00,92.00,88.00,83.00,79.00,74.00,71.00,68.00,67.00,67.00,69.00,73.00,77.00,81.00,91.00,100.00,107.00,114.00,120.00,122.00,123.00,123.00,123.00,123.00,123.00,123.00,123.00,123.00,123.00,123.00,121.00,118.00,115.00,111.00,110.00,109.00,106.00,102.00,97.00,91.00,83.00,81.00,76.00,72.00,69.00,68.00,70.00]
+,"weight": 3,"z": [719.00,733.00,752.00,771.00,793.00,806.00,823.00,842.00,853.00,867.00,883.00,953.00,998.00,1027.00,1068.00,1106.00,1131.00,1155.00,1179.00,1199.00,1215.00,1230.00,1252.00,1278.00,1303.00,1319.00,1337.00,1344.00,1348.00,1348.00,1350.00,1354.00,1367.00,1381.00,1394.00,1431.00,1480.00,1536.00,1624.00,1698.00,1765.00,1821.00,1892.00,1932.00,1976.00,2014.00,2049.00,2104.00,2163.00,2271.00,2326.00,2365.00,2390.00,2407.00,2426.00,2442.00,2470.00,2486.00,2499.00,2513.00,2522.00,2526.00,2526.00,2524.00,2519.00,2517.00,2516.00,2516.00]
+,"label": "Axorius vers Chinesia","opacity": 0.80}
+,"nouaur-sep": {"color": "#FF0000","markup": false,"x": [-416.00,-417.00,-419.00,-423.00,-428.00,-438.00,-453.00,-481.00,-539.00,-652.00,-770.00,-860.00,-931.00,-1054.00,-1134.00,-1216.00,-1269.00,-1284.00,-1287.00,-1290.00,-1287.00,-1286.00,-1285.00,-1285.00]
+,"y": [122.00,123.00,123.00,123.00,123.00,122.00,121.00,118.00,113.00,109.00,113.00,117.00,117.00,117.00,113.00,106.00,94.00,93.00,93.00,91.00,85.00,81.00,78.00,78.00]
+,"weight": 3,"z": [739.00,754.00,759.00,764.00,768.00,773.00,778.00,783.00,790.00,783.00,786.00,813.00,845.00,914.00,968.00,1023.00,1063.00,1081.00,1087.00,1100.00,1118.00,1129.00,1138.00,1140.00]
+,"label": "Nouvelle-Aurore vers Sepina","opacity": 0.80}
+}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_world_of_eagle": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-5252.00,4748.00,4748.00,-5252.00]
+,"weight": 3,"z": [-4624.00,-4624.00,5376.00,5376.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_world_of_eagle": {"markup": false,"x": -252.00,"icon": "world","y": 68.00,"dim": "16x16","z": 376.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {"Apocalipse_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-352.00,-352.00,-496.00,-496.00,-336.00,-336.00,-160.00,-160.00,-32.00,-32.00]
+,"weight": 2,"z": [-112.00,-208.00,-208.00,32.00,32.00,128.00,128.00,176.00,176.00,-112.00]
+,"ybottom": 64.00,"label": "Apocalipse","opacity": 0.50,"fillopacity": 0.20}
+,"Nouvelle-Aurore_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-608.00,-608.00,-208.00,-208.00]
+,"weight": 2,"z": [512.00,832.00,832.00,512.00]
+,"ybottom": 64.00,"label": "Nouvelle-Aurore","opacity": 0.50,"fillopacity": 0.20}
+,"Kenson_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-2640.00,-2640.00,-2656.00,-2656.00,-2496.00,-2496.00,-2480.00,-2480.00,-2464.00,-2464.00,-2448.00,-2448.00,-2496.00,-2496.00,-2512.00,-2512.00,-2624.00,-2624.00]
+,"weight": 2,"z": [272.00,432.00,432.00,496.00,496.00,416.00,416.00,352.00,352.00,336.00,336.00,304.00,304.00,272.00,272.00,224.00,224.00,272.00]
+,"ybottom": 64.00,"label": "Kenson","opacity": 0.50,"fillopacity": 0.20}
+,"Villa-Galla-Romane_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-992.00,-992.00,-960.00,-960.00,-944.00,-944.00,-928.00,-928.00,-944.00,-944.00,-992.00,-992.00,-1008.00,-1008.00,-1120.00,-1120.00,-1072.00,-1072.00]
+,"weight": 2,"z": [704.00,688.00,688.00,592.00,592.00,576.00,576.00,432.00,432.00,416.00,416.00,400.00,400.00,384.00,384.00,672.00,672.00,704.00]
+,"ybottom": 64.00,"label": "Villa-Galla-Romane","opacity": 0.50,"fillopacity": 0.20}
+,"TreeTown_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-272.00,-272.00,-112.00,-112.00,-96.00,-96.00,-208.00,-208.00,-320.00,-320.00,-432.00,-432.00,-480.00,-480.00,-384.00,-384.00,-304.00,-304.00]
+,"weight": 2,"z": [1632.00,1584.00,1584.00,1552.00,1552.00,1472.00,1472.00,1456.00,1456.00,1472.00,1472.00,1504.00,1504.00,1568.00,1568.00,1584.00,1584.00,1632.00]
+,"ybottom": 64.00,"label": "TreeTown","opacity": 0.50,"fillopacity": 0.20}
+,"Aurore_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-32.00,-32.00,-64.00,-64.00,-80.00,-80.00,-64.00,-64.00,16.00,16.00,32.00,32.00,112.00,112.00,128.00,128.00,144.00,144.00,176.00,176.00,208.00,208.00,224.00,224.00,208.00,208.00,176.00,176.00,144.00,144.00,128.00,128.00,96.00,96.00,48.00,48.00,0.00,0.00]
+,"weight": 2,"z": [240.00,256.00,256.00,272.00,272.00,304.00,304.00,320.00,320.00,336.00,336.00,384.00,384.00,368.00,368.00,352.00,352.00,368.00,368.00,352.00,352.00,320.00,320.00,304.00,304.00,288.00,288.00,304.00,304.00,224.00,224.00,208.00,208.00,192.00,192.00,224.00,224.00,240.00]
+,"ybottom": 64.00,"label": "Aurore","opacity": 0.50,"fillopacity": 0.20}
+,"Eternia_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-4096.00,-4112.00,-4112.00,-4128.00,-4128.00,-4144.00,-4144.00,-4176.00,-4176.00,-4192.00,-4192.00,-4176.00,-4176.00,-4160.00,-4160.00,-4112.00,-4112.00,-4032.00,-4032.00,-4016.00,-4016.00,-4000.00,-4000.00,-3968.00,-3968.00,-4016.00,-4016.00,-4080.00,-4080.00,-4096.00]
+,"weight": 2,"z": [-112.00,-112.00,-80.00,-80.00,-64.00,-64.00,-48.00,-48.00,-32.00,-32.00,16.00,16.00,32.00,32.00,48.00,48.00,80.00,80.00,48.00,48.00,32.00,32.00,16.00,16.00,-160.00,-160.00,-176.00,-176.00,-160.00,-160.00]
+,"ybottom": 64.00,"label": "Eternia","opacity": 0.50,"fillopacity": 0.20}
+,"Chin\u00E9sia_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-704.00,-656.00,-656.00,-640.00,-640.00,-704.00,-704.00,-736.00,-736.00,-768.00,-768.00,-816.00,-816.00,-880.00,-880.00,-912.00,-912.00,-992.00,-992.00,-960.00,-960.00,-944.00,-944.00,-928.00,-928.00,-880.00,-880.00,-864.00,-864.00,-848.00,-848.00,-784.00,-784.00,-768.00,-768.00,-752.00,-752.00,-720.00,-720.00,-704.00]
+,"weight": 2,"z": [2480.00,2480.00,2464.00,2464.00,2416.00,2416.00,2448.00,2448.00,2432.00,2432.00,2384.00,2384.00,2416.00,2416.00,2432.00,2432.00,2448.00,2448.00,2544.00,2544.00,2576.00,2576.00,2608.00,2608.00,2624.00,2624.00,2640.00,2640.00,2656.00,2656.00,2672.00,2672.00,2656.00,2656.00,2640.00,2640.00,2624.00,2624.00,2528.00,2528.00]
+,"ybottom": 64.00,"label": "Chin\u00E9sia","opacity": 0.50,"fillopacity": 0.20}
+,"Village_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-496.00,-496.00,-480.00,-480.00,-464.00,-464.00,-448.00,-448.00,-464.00,-464.00,-496.00,-496.00,-512.00,-512.00,-560.00,-560.00,-576.00,-576.00,-592.00,-592.00,-608.00,-608.00,-624.00,-624.00,-640.00,-640.00,-624.00,-624.00,-608.00,-608.00]
+,"weight": 2,"z": [4096.00,4080.00,4080.00,4016.00,4016.00,4000.00,4000.00,3936.00,3936.00,3920.00,3920.00,3904.00,3904.00,3888.00,3888.00,3904.00,3904.00,3920.00,3920.00,3952.00,3952.00,3968.00,3968.00,3984.00,3984.00,4064.00,4064.00,4080.00,4080.00,4096.00]
+,"ybottom": 64.00,"label": "Village","opacity": 0.50,"fillopacity": 0.20}
+,"S\u00E9pina_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-1408.00,-1408.00,-1376.00,-1376.00,-1360.00,-1360.00,-1344.00,-1344.00,-1328.00,-1328.00,-1312.00,-1312.00,-1264.00,-1264.00,-1232.00,-1232.00,-1248.00,-1248.00,-1232.00,-1232.00,-1216.00,-1216.00,-1200.00,-1200.00,-1184.00,-1184.00,-1168.00,-1168.00,-1184.00,-1184.00,-1168.00,-1168.00,-1152.00,-1152.00,-1136.00,-1136.00,-1120.00,-1120.00,-1152.00,-1152.00,-1200.00,-1200.00,-1232.00,-1232.00,-1264.00,-1264.00,-1280.00,-1280.00,-1296.00,-1296.00,-1280.00,-1280.00,-1296.00,-1296.00,-1328.00,-1328.00,-1360.00,-1360.00,-1376.00,-1376.00,-1424.00,-1424.00,-1456.00,-1456.00,-1472.00,-1472.00,-1488.00,-1488.00,-1440.00,-1440.00]
+,"weight": 2,"z": [1056.00,1104.00,1104.00,1120.00,1120.00,1136.00,1136.00,1152.00,1152.00,1216.00,1216.00,1232.00,1232.00,1216.00,1216.00,1168.00,1168.00,1152.00,1152.00,1104.00,1104.00,1088.00,1088.00,1072.00,1072.00,1056.00,1056.00,1008.00,1008.00,960.00,960.00,928.00,928.00,912.00,912.00,896.00,896.00,832.00,832.00,816.00,816.00,800.00,800.00,864.00,864.00,896.00,896.00,912.00,912.00,928.00,928.00,944.00,944.00,992.00,992.00,1008.00,1008.00,976.00,976.00,928.00,928.00,960.00,960.00,976.00,976.00,992.00,992.00,1040.00,1040.00,1056.00]
+,"ybottom": 64.00,"label": "S\u00E9pina","opacity": 0.50,"fillopacity": 0.20}
+,"SamothCity_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-608.00,-608.00,-416.00,-416.00,-464.00,-464.00]
+,"weight": 2,"z": [176.00,368.00,368.00,208.00,208.00,176.00]
+,"ybottom": 64.00,"label": "SamothCity","opacity": 0.50,"fillopacity": 0.20}
+,"Astana_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-1872.00,-1888.00,-1888.00,-1904.00,-1904.00,-1920.00,-1920.00,-1936.00,-1936.00,-2016.00,-2016.00,-2048.00,-2048.00,-2064.00,-2064.00,-2080.00,-2080.00,-2096.00,-2096.00,-2112.00,-2112.00,-2128.00,-2128.00,-2160.00,-2160.00,-2144.00,-2144.00,-2080.00,-2080.00,-2032.00,-2032.00,-2016.00,-2016.00,-1920.00,-1920.00,-1904.00,-1904.00,-1888.00,-1888.00,-1872.00,-1872.00,-1856.00,-1856.00,-1872.00]
+,"weight": 2,"z": [2992.00,2992.00,2912.00,2912.00,2864.00,2864.00,2848.00,2848.00,2832.00,2832.00,2848.00,2848.00,2864.00,2864.00,2880.00,2880.00,2928.00,2928.00,2944.00,2944.00,2976.00,2976.00,2992.00,2992.00,3088.00,3088.00,3104.00,3104.00,3088.00,3088.00,3120.00,3120.00,3152.00,3152.00,3136.00,3136.00,3120.00,3120.00,3104.00,3104.00,3088.00,3088.00,3008.00,3008.00]
+,"ybottom": 64.00,"label": "Astana","opacity": 0.50,"fillopacity": 0.20}
+,"Axorius_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-864.00,-864.00,-848.00,-848.00,-608.00,-608.00]
+,"weight": 2,"z": [320.00,720.00,720.00,768.00,768.00,320.00]
+,"ybottom": 64.00,"label": "Axorius","opacity": 0.50,"fillopacity": 0.20}
+,"Montana_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-512.00,-512.00,-560.00,-560.00,-608.00,-608.00,-624.00,-624.00,-656.00,-656.00,-688.00,-688.00,-672.00,-672.00,-656.00,-656.00,-448.00,-448.00,-432.00,-432.00]
+,"weight": 2,"z": [2928.00,2912.00,2912.00,2896.00,2896.00,2912.00,2912.00,2928.00,2928.00,2992.00,2992.00,3008.00,3008.00,3088.00,3088.00,3104.00,3104.00,3040.00,3040.00,2928.00]
+,"ybottom": 64.00,"label": "Montana","opacity": 0.50,"fillopacity": 0.20}
+}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"ferme_mobs": {"markup": false,"x": 1299.00,"icon": "sign","y": 79.00,"dim": "16x16","z": -1573.00,"label": "Ferme \u00E0 Mobs"}
+,"hotel_de_ville_arthuit": {"markup": false,"x": -311.00,"icon": "sign","y": 75.00,"dim": "16x16","z": 304.00,"label": "Hotel de Ville de Arthuit"}
+,"stade": {"markup": false,"x": -252.00,"icon": "sign","y": 64.00,"dim": "16x16","z": -221.00,"label": "Stade de Arthuit"}
+,"usine_fer": {"markup": false,"x": 1299.00,"icon": "sign","y": 79.00,"dim": "16x16","z": -1603.00,"label": "Usine \u00E0 fer"}
+,"kronenbar": {"markup": false,"x": -850.00,"icon": "sign","y": 69.00,"dim": "16x16","z": 872.00,"label": "Kronenbar"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302282}

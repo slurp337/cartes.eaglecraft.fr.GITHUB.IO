@@ -1,0 +1,7 @@
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1474189777,"servertime": 532,"updates": [{"msg": "markerupdated","x": -721.00,"y": 65.00,"z": 556.00,"id": "_spawn_world_of_fun","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697986270986}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2721.00,1279.00,1279.00,-2721.00]
+,"z": [-1444.00,-1444.00,2556.00,2556.00]
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_world_of_fun","label": "Bordure du monde","set": "markers","desc": null,"minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1697986270986}
+]
+,"timestamp": 0}

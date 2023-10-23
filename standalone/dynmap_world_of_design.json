@@ -1,0 +1,7 @@
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1474189777,"servertime": 532,"updates": [{"msg": "markerupdated","x": -256.00,"y": 64.00,"z": 155.00,"id": "_spawn_world_of_design","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697986271134}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-5256.00,4744.00,4744.00,-5256.00]
+,"z": [-4845.00,-4845.00,5155.00,5155.00]
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_world_of_design","label": "Bordure du monde","set": "markers","desc": null,"minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1697986271134}
+]
+,"timestamp": 0}

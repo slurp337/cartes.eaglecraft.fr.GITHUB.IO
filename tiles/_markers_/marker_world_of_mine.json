@@ -1,0 +1,49 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_wom_spawn": {"markup": false,"x": -523.00,"icon": "portal","y": 81.00,"dim": "16x16","z": 245.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {"1cd48633-62fb-454f-96bb-4099806e1dc1": {"markup": false,"x": -497.00,"icon": "pin","y": 80.00,"dim": "16x16","z": 234.00,"label": "Baroriam vend des Bamboo pour 0,50 Egl"}
+,"ddfb925c-e36e-45cd-8bc2-e82fcfda5876": {"markup": false,"x": -497.00,"icon": "pin","y": 80.00,"dim": "16x16","z": 232.00,"label": "Baroriam vend des Bell pour 5,00 Egl"}
+,"30ce382a-a206-45ec-aec4-77006fd56d0e": {"markup": false,"x": -497.00,"icon": "pin","y": 80.00,"dim": "16x16","z": 231.00,"label": "Baroriam vend des Sweet Berries pour 1,00 Egl"}
+,"83407a58-d954-4ece-9a28-9775b135b73e": {"markup": false,"x": -497.00,"icon": "pin","y": 80.00,"dim": "16x16","z": 233.00,"label": "Baroriam vend des Scaffolding pour 1,00 Egl"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"world_of_mine_centre": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-574.00,-574.00,-445.00,-445.00]
+,"weight": 2,"z": [195.00,296.00,296.00,195.00]
+,"ybottom": 64.00,"label": "Centre","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Centre<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_world_of_mine": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-5523.00,4477.00,4477.00,-5523.00]
+,"weight": 3,"z": [-4755.00,-4755.00,5245.00,5245.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_world_of_mine": {"markup": false,"x": -523.00,"icon": "world","y": 80.00,"dim": "16x16","z": 245.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302294}

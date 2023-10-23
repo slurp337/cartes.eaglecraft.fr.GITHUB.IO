@@ -1,0 +1,56 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_spawn_woe": {"markup": false,"x": 24.00,"icon": "portal","y": 66.00,"dim": "16x16","z": 7.00,"label": "Portail vers WOE"}
+,"portail_spawn_wod": {"markup": false,"x": 24.00,"icon": "portal","y": 66.00,"dim": "16x16","z": -7.00,"label": "Portail vers WOD"}
+,"portail_spawn_wow": {"markup": false,"x": 7.00,"icon": "portal","y": 66.00,"dim": "16x16","z": -24.00,"label": "Portail vers WOW"}
+,"portail_spawn_wof": {"markup": false,"x": -7.00,"icon": "portal","y": 66.00,"dim": "16x16","z": 24.00,"label": "Portail vers WOF"}
+,"portail_spawn_wom": {"markup": false,"x": 7.00,"icon": "portal","y": 66.00,"dim": "16x16","z": 24.00,"label": "Portail vers WOM"}
+,"portail_spawn_won": {"markup": false,"x": -7.00,"icon": "portal","y": 66.00,"dim": "16x16","z": -24.00,"label": "Portail vers WON"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"spawn_message_git": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [0.00,0.00,1.00,1.00]
+,"weight": 2,"z": [0.00,1.00,1.00,0.00]
+,"ybottom": 64.00,"label": "Message_git","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Message_git<\/div><\/div>"}
+,"spawn_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"weight": 2,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_spawn": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-1000.00,1000.00,1000.00,-1000.00]
+,"weight": 3,"z": [-1000.00,-1000.00,1000.00,1000.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_spawn": {"markup": false,"x": 0.00,"icon": "world","y": 65.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"concorde": {"markup": false,"x": 38.00,"icon": "sign","y": 113.00,"dim": "16x16","z": 729.00,"label": "Concorde"}
+,"a380": {"markup": false,"x": -296.00,"icon": "sign","y": 77.00,"dim": "16x16","z": 457.00,"label": "Airbus A380 MSN001 (F-WWOW)"}
+,"uss_ruban_diary": {"markup": false,"x": 634.00,"icon": "sign","y": 193.00,"dim": "16x16","z": -503.00,"label": "USS Ruban Diary"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302295}

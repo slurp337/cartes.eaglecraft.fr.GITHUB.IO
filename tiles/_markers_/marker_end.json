@@ -1,0 +1,60 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_end_spawn": {"markup": false,"x": 0.00,"icon": "portal","y": 65.00,"dim": "16x16","z": 0.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"end_respawn_dragon_4": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [0.00,0.00,1.00,1.00]
+,"weight": 2,"z": [-3.00,-2.00,-2.00,-3.00]
+,"ybottom": 64.00,"label": "Respawn_dragon_4","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Respawn_dragon_4<\/div><\/div>"}
+,"end_respawn_dragon_3": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-3.00,-3.00,-2.00,-2.00]
+,"weight": 2,"z": [0.00,1.00,1.00,0.00]
+,"ybottom": 64.00,"label": "Respawn_dragon_3","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Respawn_dragon_3<\/div><\/div>"}
+,"end_arrivee_warp": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [30.00,30.00,35.00,35.00]
+,"weight": 2,"z": [30.00,35.00,35.00,30.00]
+,"ybottom": 64.00,"label": "Arrivee_warp","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Arrivee_warp<\/div><\/div>"}
+,"end_respawn_dragon_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [0.00,0.00,1.00,1.00]
+,"weight": 2,"z": [3.00,4.00,4.00,3.00]
+,"ybottom": 64.00,"label": "Respawn_dragon_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Respawn_dragon_2<\/div><\/div>"}
+,"end_respawn_dragon_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [3.00,3.00,4.00,4.00]
+,"weight": 2,"z": [0.00,1.00,1.00,0.00]
+,"ybottom": 64.00,"label": "Respawn_dragon_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Respawn_dragon_1<\/div><\/div>"}
+,"end_portail": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-7.00,-7.00,8.00,8.00]
+,"weight": 2,"z": [-7.00,8.00,8.00,-7.00]
+,"ybottom": 64.00,"label": "Portail","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Portail<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_end": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-5000.00,5000.00,5000.00,-5000.00]
+,"weight": 3,"z": [-5000.00,-5000.00,5000.00,5000.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_end": {"markup": false,"x": 0.00,"icon": "world","y": 100.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302297}

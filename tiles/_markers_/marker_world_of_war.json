@@ -1,0 +1,69 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_wow_spawn": {"markup": false,"x": -218.00,"icon": "portal","y": 194.00,"dim": "16x16","z": 148.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"world_of_war_monument_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [103.00,103.00,201.00,201.00]
+,"weight": 2,"z": [-921.00,-823.00,-823.00,-921.00]
+,"ybottom": 64.00,"label": "Monument_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Monument_1<\/div><\/div>"}
+,"world_of_war_village_1": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-491.00,-491.00,-368.00,-368.00]
+,"weight": 2,"z": [532.00,624.00,624.00,532.00]
+,"ybottom": 64.00,"label": "Village_1","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Village_1<\/div><\/div>"}
+,"world_of_war_monument_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [279.00,279.00,377.00,377.00]
+,"weight": 2,"z": [-1417.00,-1319.00,-1319.00,-1417.00]
+,"ybottom": 64.00,"label": "Monument_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Monument_2<\/div><\/div>"}
+,"world_of_war_village_2": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-721.00,-721.00,-649.00,-649.00]
+,"weight": 2,"z": [858.00,950.00,950.00,858.00]
+,"ybottom": 64.00,"label": "Village_2","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Village_2<\/div><\/div>"}
+,"world_of_war_nouvelle_aurore": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [1017.00,1017.00,1329.00,1329.00]
+,"weight": 2,"z": [-619.00,-451.00,-451.00,-619.00]
+,"ybottom": 64.00,"label": "Nouvelle_aurore","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Nouvelle_aurore<\/div><\/div>"}
+,"world_of_war_centre": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-466.00,-466.00,35.00,35.00]
+,"weight": 2,"z": [-102.00,399.00,399.00,-102.00]
+,"ybottom": 64.00,"label": "Centre","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Centre<\/div><\/div>"}
+,"world_of_war_chateau_regorf": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-560.00,-560.00,-463.00,-463.00]
+,"weight": 2,"z": [465.00,607.00,607.00,465.00]
+,"ybottom": 64.00,"label": "Chateau_regorf","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Chateau_regorf<\/div><\/div>"}
+,"world_of_war_fort": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [588.00,588.00,817.00,817.00]
+,"weight": 2,"z": [563.00,737.00,737.00,563.00]
+,"ybottom": 64.00,"label": "Fort","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Fort<\/div><\/div>"}
+,"world_of_war_gravyti": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-789.00,-789.00,-620.00,-620.00]
+,"weight": 2,"z": [783.00,961.00,961.00,783.00]
+,"ybottom": 64.00,"label": "Gravyti","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Gravyti<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_world_of_war": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2218.00,1782.00,1782.00,-2218.00]
+,"weight": 3,"z": [-1852.00,-1852.00,2148.00,2148.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_world_of_war": {"markup": false,"x": -218.00,"icon": "world","y": 193.00,"dim": "16x16","z": 148.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1697986302287}
